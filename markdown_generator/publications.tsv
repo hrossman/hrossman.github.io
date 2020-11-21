@@ -1,2 +1,6 @@
 pub_date	title	venue	excerpt	citation	url_slug	paper_url
 2020-04-09	A framework for identifying regional outbreak and spread of COVID-19 from one-minute population-wide surveys	Nature Medicine	 		covid-framework	https://www.nature.com/articles/s41591-020-0857-9
+2020-01-13	Prediction of gestational diabetes based on nationwide electronic health records	Nature Medicine	 		gdm	https://www.nature.com/articles/s41591-019-0724-8
+2020-01-13	Axes of a revolution: challenges and promises of big data in healthcare	Nature Medicine			axes	https://www.nature.com/articles/s41591-019-0727-5
+2020-06-02	Building an international consortium for tracking coronavirus health status	Nature Medicine			covid-ccc	https://www.nature.com/articles/s41591-020-0929-x
+2020-10-10	A Prediction Model to Prioritize Individuals for a SARS-CoV-2 Test Built from National Symptom Surveys	Med			covid-test-pred	https://www.sciencedirect.com/science/article/pii/S2666634020300192
