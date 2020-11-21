@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: ""
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
 
-# Published work
+## Published work
 
 **A framework for identifying regional outbreak and spread of COVID-19 from one-minute population-wide surveys**\
 Hagai Rossman, Ayya Keshet, Smadar Shilo, Amir Gavrieli, Tal Bauman, Ori Cohen, Ran Balicer, Benjamin Geiger, Yuval Dor, Eran Segal.\
@@ -29,7 +29,7 @@ Saar Shoer, Tal Karady, Ayya Keshet, Smadar Shilo, Hagai Rossman, Amir Gavrieli,
 _Med 2020_ [[paper](https://www.sciencedirect.com/science/article/pii/S2666634020300192)]
 
 
-# Preprints
+## Preprints
 
 **Childhood obesity prediction from nationwide health records**\
 Hagai Rossman, Smadar Shilo, Shiri Hazan, Nitzan Artzi, Eran Hadar, Ran Balicer, Becca Feldman, Arnon Wiznitzer, Eran Segal.\
