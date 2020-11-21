@@ -53,7 +53,7 @@ Childhood Obesity Prediction and Risk Factor Analysis from Nationwide Health Rec
 [NBER - Machine Learning in Health Care](https://www.nber.org/conferences/machine-learning-health-care-spring-2019), Boston, May 2019
 
 Rapid deployment of a nationwide symptoms survey during the outbreak and spread of COVID-19 - framework and applications\
-[Life Science Alliance - AI in Healtcare symposium](https://med.stanford.edu/lifesciencealliance/symposium.html), Heilbronn, October 2020
+[Life Science Alliance - AI in Healthcare symposium](https://med.stanford.edu/lifesciencealliance/symposium.html), Heilbronn, October 2020
 
 
 ## Conference & poster presentations
@@ -67,7 +67,15 @@ Neural Information Processing Systems (NeurIPS) [Learning Meaningful Representat
 
 Leveraging nationwide data and domain expertise to infer causal effect of cesarean section birth on long term pediatric health\
 Ayya Keshet, Hagai Rossman, Shiri Hazan, Smadar Shilo, Eran Hadar, Avi Ben-Haroush, Arnon Wiznitzer, Eran Segal.\
-[Machine Learning in Real Life workshop ICLR 2020](https://sites.google.com/nyu.edu/ml-irl-2020/home) 
+[Machine Learning in Real Life workshop ICLR 2020](https://sites.google.com/nyu.edu/ml-irl-2020/home)
+
+Rapid deployment of a nationwide, one-minute, online symtpoms survey during the outbreak and spread of COVID-19 - framework and application
+Keshet et. al.
+[ICML 2020 Workshop, Healthcare Systems, Population Health, and the Role of Health-Tech](https://sites.google.com/view/hsys2020)
+
+Who Should We Test for COVID-19? A Triage Model Built from National Symptom Surveys (Spotlight)
+Shoer et. al.
+[ICML 2020 Workshop, Healthcare Systems, Population Health, and the Role of Health-Tech](https://sites.google.com/view/hsys2020)
 
 
 
