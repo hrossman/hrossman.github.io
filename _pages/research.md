@@ -49,14 +49,25 @@ Barak Mizrahi, Smadar Shilo, Hagai Rossman, Nir Kalkstein, Karni Marcus, Yael Ba
 
 
 ## Invited talks
-**Childhood Obesity Prediction and Risk Factor Analysis from Nationwide Health Records**\
+Childhood Obesity Prediction and Risk Factor Analysis from Nationwide Health Records\
 [NBER - Machine Learning in Health Care](https://www.nber.org/conferences/machine-learning-health-care-spring-2019), Boston, May 2019
 
-**Rapid deployment of a nationwide symptoms survey during the outbreak and spread of COVID-19 - framework and applications**\
-[Life Science Alliance - AI in Healtcare symposium](https://med.stanford.edu/lifesciencealliance/symposium.html), Heilbronn, October 2020\
+Rapid deployment of a nationwide symptoms survey during the outbreak and spread of COVID-19 - framework and applications\
+[Life Science Alliance - AI in Healtcare symposium](https://med.stanford.edu/lifesciencealliance/symposium.html), Heilbronn, October 2020
 
-## Workshop & poster presentations
 
+## Conference & poster presentations
+Childhood obesity prediction and risk factor analysis from nationwide health records\
+Hagai Rossman, Smadar Shilo, Nitzan Artzi, Eran Segal.\
+Neural Information Processing Systems (NeurIPS) [Machine Learning in Health workshop](https://arxiv.org/abs/1811.07216), Montreal 2018 
+
+Learning metabolic representations of health and disease in multi-omic datasets\
+Noam Bar, Hagai Rossman, Amir gavrieli, Uri Shacham, Eran Segal.\
+Neural Information Processing Systems (NeurIPS) [Learning Meaningful Representations of Life workshop](https://www.lmrl.org/lmrl2019), Vancouver 2019
+
+Leveraging nationwide data and domain expertise to infer causal effect of cesarean section birth on long term pediatric health\
+Ayya Keshet, Hagai Rossman, Shiri Hazan, Smadar Shilo, Eran Hadar, Avi Ben-Haroush, Arnon Wiznitzer, Eran Segal.\
+[Machine Learning in Real Life workshop ICLR 2020](https://sites.google.com/nyu.edu/ml-irl-2020/home) 
 
 
 
