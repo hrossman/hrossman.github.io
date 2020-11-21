@@ -1,8 +1,10 @@
 ---
-layout: archive
 title: "Research"
-permalink: /publications/
-author_profile: true
+permalink: /research/
+author_profile: no
+output:
+  html_document:
+    df_print: paged
 ---
 
 # Published work
