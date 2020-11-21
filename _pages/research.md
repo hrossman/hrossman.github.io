@@ -46,3 +46,17 @@ Ayya Keshet, Amir Gavrieli, Hagai Rossman, Smadar Shilo, Tomer Meir, Tal Karady,
 **Longitudinal symptom dynamics of COVID-19 infection in primary care**\
 Barak Mizrahi, Smadar Shilo, Hagai Rossman, Nir Kalkstein, Karni Marcus, Yael Barer, Ayya Keshet, Na'ama Shamir-Stein, Varda Shalev, Anat Ekka Zohar, Gabriel Chodick, Eran Segal.\
 [[preprint](https://www.medrxiv.org/content/10.1101/2020.07.13.20151795v2)]
+
+
+## Invited talks
+**Childhood Obesity Prediction and Risk Factor Analysis from Nationwide Health Records**\
+[NBER - Machine Learning in Health Care](https://www.nber.org/conferences/machine-learning-health-care-spring-2019), Boston, May 2019
+
+**Rapid deployment of a nationwide symptoms survey during the outbreak and spread of COVID-19 - framework and applications**\
+[Life Science Alliance - AI in Healtcare symposium](https://med.stanford.edu/lifesciencealliance/symposium.html), Heilbronn, October 2020\
+
+## Workshop & poster presentations
+
+
+
+
