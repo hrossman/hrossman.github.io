@@ -28,6 +28,10 @@ _Nature Medicine 2020_ [[paper](https://www.nature.com/articles/s41591-019-0727-
 Saar Shoer, Tal Karady, Ayya Keshet, Smadar Shilo, Hagai Rossman, Amir Gavrieli, Tomer Meir, Amit Lavon, Dmitry Kolobkov, Iris Kalka, Anastasia Godneva, Ori Cohen, Adam Kariv, Ori Hoch, Mushon Zer-Aviv, Noam Castel, Anat Ekka Zohar, Angela Irony, Benjamin Geiger, Dorit Hizi, Varda Shalev, Ran Balicer, Eran Segal.\
 _Med 2020_ [[paper](https://www.sciencedirect.com/science/article/pii/S2666634020300192)]
 
+**Longitudinal symptom dynamics of COVID-19 infection**\
+Barak Mizrahi, Smadar Shilo, Hagai Rossman, Nir Kalkstein, Karni Marcus, Yael Barer, Ayya Keshet, Na'ama Shamir-Stein, Varda Shalev, Anat Ekka Zohar, Gabriel Chodick, Eran Segal.\
+_Nature Communications 2020_ [[paper](https://www.nature.com/articles/s41467-020-20053-y)]
+
 
 ## Preprints
 
@@ -42,10 +46,6 @@ Iris Kalka, Amir Gavrieli, Smadar Shilo, Hagai Rossman, Nitzan Artzi, Eran Segal
 **The effect of a national lockdown in response to COVID-19 pandemic on the prevalence of clinical symptoms in the population**\
 Ayya Keshet, Amir Gavrieli, Hagai Rossman, Smadar Shilo, Tomer Meir, Tal Karady, Amit Lavon, Dmitry Kolobkov, Iris Kalka, Saar Shoer, Anastasia Godneva, Ori Cohen, Adam Kariv, Ori Hoch, Mushon Zer-Aviv, Noam Castel, Anat Ekka Zohar, Angela Irony, Benjamin Geiger, Yuval Dor, Dorit Hizi, Ran Balicer, Varda Shalev, Eran Segal.\
 [[preprint](https://www.medrxiv.org/content/10.1101/2020.04.27.20076000v2)]
-
-**Longitudinal symptom dynamics of COVID-19 infection in primary care**\
-Barak Mizrahi, Smadar Shilo, Hagai Rossman, Nir Kalkstein, Karni Marcus, Yael Barer, Ayya Keshet, Na'ama Shamir-Stein, Varda Shalev, Anat Ekka Zohar, Gabriel Chodick, Eran Segal.\
-[[preprint](https://www.medrxiv.org/content/10.1101/2020.07.13.20151795v2)]
 
 
 ## Invited talks
