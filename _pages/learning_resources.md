@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Learning resources"
+permalink: /learning_resources/
+author_profile: False
+---
+
+
 This page gathers learning resources for different topics that interest me. This page is not a comprehensive list, but more of a curation of resources I found very useful for anyone looking to kickstart or broaden her\his knowledge on a subject. Personally, I hope to gain a good level of understanding of these topics in my PhD, related or unrelated to my ongoing research. And I've found it usefull to have one place where I keep recommendations for other friends who would like to get into something new, so might as well share in public. Happy for any suggestions for additions.
 
 ## Topics
