@@ -2,11 +2,11 @@
 layout: archive
 title: "Learning resources"
 permalink: /learning_resources/
-author_profile: true
+author_profile: false
 ---
 
 
-## Learning resources
+# Learning resources
 This page gathers learning resources for different topics that interest me. This page is not a comprehensive list, but more of a curation of resources I found very useful for anyone looking to kickstart or broaden her\his knowledge on a subject. Personally, I hope to gain a good level of understanding of these topics in my PhD, related or unrelated to my ongoing research. And I've found it usefull to have one place where I keep recommendations for other friends who would like to get into something new, so might as well share in public. Happy for any suggestions for additions.
 
 ## Topics
@@ -49,7 +49,7 @@ Introduction to Causal Inference course by Bradley Neal [[course](https://www.br
 
 Concise tutorial by Sharma & Kiciman [[tutorial](https://causalinference.gitlab.io/kdd-tutorial/)]
 
-TODO - need to find and add Susan athey materials. Anyway she has some great stuff you should check out
+TODO - need to find and add the Susan Athey course\tutorial materials. Anyway she has some great stuff you should check out
 
 
 ## 4. Survival analysis <a name="Survival"></a>
