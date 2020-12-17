@@ -30,10 +30,14 @@ _Med 2020_ [[paper](https://www.sciencedirect.com/science/article/pii/S266663402
 
 **Longitudinal symptom dynamics of COVID-19 infection**\
 Barak Mizrahi, Smadar Shilo, Hagai Rossman, Nir Kalkstein, Karni Marcus, Yael Barer, Ayya Keshet, Na'ama Shamir-Stein, Varda Shalev, Anat Ekka Zohar, Gabriel Chodick, Eran Segal.\
-_Nature Communications 2020_ [[paper](https://www.nature.com/articles/s41467-020-20053-y)]
+_Nature Communications 2020_ [[paper](https://www.nature.com/articles/s41467-020-20053-y)] [[blog](https://naturemicrobiologycommunity.nature.com/posts/tracking-the-longitudinal-dynamics-of-symptoms-of-covid-19-infection-in-primary-care)]
 
 
 ## Preprints
+
+**Estimating the effect of cesarean delivery on long term childhood health across two countries**\
+Ayya Keshet, Hagai Rossman, Smadar Shilo, Shiri Barbash-Hazan, Guy Amit, Maytal Bivas-Benita, Chen Yanover, Irena Girshovitz, Pinchas Akiva, Avi Ben-Haroush, Eran Hadar, Arnon Wiznitzer, Eran Segal.\
+[[preprint](https://www.medrxiv.org/content/10.1101/2020.12.15.20248167v1)] [[code](https://github.com/ayya-keshet/Causal-Survival-Analysis)]
 
 **Childhood obesity prediction from nationwide health records**\
 Hagai Rossman, Smadar Shilo, Shiri Hazan, Nitzan Artzi, Eran Hadar, Ran Balicer, Becca Feldman, Arnon Wiznitzer, Eran Segal.\
@@ -46,6 +50,14 @@ Iris Kalka, Amir Gavrieli, Smadar Shilo, Hagai Rossman, Nitzan Artzi, Eran Segal
 **The effect of a national lockdown in response to COVID-19 pandemic on the prevalence of clinical symptoms in the population**\
 Ayya Keshet, Amir Gavrieli, Hagai Rossman, Smadar Shilo, Tomer Meir, Tal Karady, Amit Lavon, Dmitry Kolobkov, Iris Kalka, Saar Shoer, Anastasia Godneva, Ori Cohen, Adam Kariv, Ori Hoch, Mushon Zer-Aviv, Noam Castel, Anat Ekka Zohar, Angela Irony, Benjamin Geiger, Yuval Dor, Dorit Hizi, Ran Balicer, Varda Shalev, Eran Segal.\
 [[preprint](https://www.medrxiv.org/content/10.1101/2020.04.27.20076000v2)]
+
+**Stress-related emotional and behavioural impact following the first COVID-19 outbreak peak**\
+Benjamin, Kuperman et. al.
+[[preprint](https://www.medrxiv.org/content/10.1101/2020.12.08.20245787v1)]
+
+**Anosmia and other SARS-CoV-2 positive test-associated symptoms, across three national, digital surveillance platforms as the COVID-19 pandemic and response unfolded: an observation study**\
+Sudre, Keshet, et. al.\
+[[preprint](https://www.medrxiv.org/content/10.1101/2020.12.15.20248096v1)]
 
 
 ## Invited talks
