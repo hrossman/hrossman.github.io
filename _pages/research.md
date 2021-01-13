@@ -37,7 +37,7 @@ _Nature Communications 2020_ [[paper](https://www.nature.com/articles/s41467-020
 
 **Hospital load and increased COVID-19 related mortality - a nationwide study in Israel**\
 Hagai Rossman, Tomer Meir, Jonathan Somer, Smadar Shilo, Rom Gutman, Asaf Ben-Arie, Eran Segal, Uri Shalit, Malka Gorfine.\
-[[preprint](https://www.medrxiv.org/content/10.1101/2021.01.11.21249526v1)] [[code](https://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model) [press](https://www.vox.com/2021/1/13/22224445/covid-19-deaths-in-us-hospital-beds-icu)]
+[[preprint](https://www.medrxiv.org/content/10.1101/2021.01.11.21249526v1)] [[code](https://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model)] [[press](https://www.vox.com/2021/1/13/22224445/covid-19-deaths-in-us-hospital-beds-icu)]
 
 **Estimating the effect of cesarean delivery on long term childhood health across two countries**\
 Ayya Keshet, Hagai Rossman, Smadar Shilo, Shiri Barbash-Hazan, Guy Amit, Maytal Bivas-Benita, Chen Yanover, Irena Girshovitz, Pinchas Akiva, Avi Ben-Haroush, Eran Hadar, Arnon Wiznitzer, Eran Segal.\
