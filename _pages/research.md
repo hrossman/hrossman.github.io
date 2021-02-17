@@ -80,6 +80,10 @@ Rapid deployment of a nationwide symptoms survey during the outbreak and spread 
 
 
 ## Conference & poster presentations
+
+NATO webinar 2021 - Israel’s Best Practices in Enhancing Resilience – the Case of Covid-19\
+Hagai Rossman, Tomer Meir
+
 Childhood obesity prediction and risk factor analysis from nationwide health records\
 Hagai Rossman, Smadar Shilo, Nitzan Artzi, Eran Segal.\
 Neural Information Processing Systems (NeurIPS) [Machine Learning in Health workshop](https://arxiv.org/abs/1811.07216), Montreal 2018 
