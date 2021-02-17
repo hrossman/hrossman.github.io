@@ -40,7 +40,7 @@ _Journal of Pediatrics 2021_ [[paper](https://www.jpeds.com/article/S0022-3476(2
 ## Preprints
 
 **Patterns of covid-19 pandemic dynamics following deployment of a broad national immunization program**\
-Hagai Rossman, Smadar Shiloת Tomer Meir, Malka Gorfine Uri Shalit, Eran Segal.\
+Hagai Rossman, Smadar Shiloת Tomer Meir, Malka Gorfine, Uri Shalit, Eran Segal.\
 [[preprint](https://www.medrxiv.org/content/10.1101/2021.02.08.21251325v1)] 
 [[press: Economist](https://www.economist.com/briefing/2021/02/13/when-covid-19-vaccines-meet-the-new-variants-of-the-virus)] 
 [[press: Financial times](https://www.ft.com/content/0cdc8563-1e6d-4089-bedb-b0f675c0d683)]
