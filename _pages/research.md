@@ -32,20 +32,27 @@ _Med 2020_ [[paper](https://www.sciencedirect.com/science/article/pii/S266663402
 Barak Mizrahi, Smadar Shilo, Hagai Rossman, Nir Kalkstein, Karni Marcus, Yael Barer, Ayya Keshet, Na'ama Shamir-Stein, Varda Shalev, Anat Ekka Zohar, Gabriel Chodick, Eran Segal.\
 _Nature Communications 2020_ [[paper](https://www.nature.com/articles/s41467-020-20053-y)] [[blog](https://naturemicrobiologycommunity.nature.com/posts/tracking-the-longitudinal-dynamics-of-symptoms-of-covid-19-infection-in-primary-care)]
 
+**Prediction of Childhood obesity from nationwide health records**\
+Hagai Rossman, Smadar Shilo, Shiri Hazan, Nitzan Artzi, Eran Hadar, Ran Balicer, Becca Feldman, Arnon Wiznitzer, Eran Segal.\
+_Journal of Pediatrics 2021_ [[paper](https://www.jpeds.com/article/S0022-3476(21)00119-0/)]
+
 
 ## Preprints
 
+**Patterns of covid-19 pandemic dynamics following deployment of a broad national immunization program**\
+Hagai Rossman, Smadar Shiloת Tomer Meir, Malka Gorfine Uri Shalit, Eran Segal.\
+[[preprint](https://www.medrxiv.org/content/10.1101/2021.02.08.21251325v1)] 
+[[press: Economist](https://www.economist.com/briefing/2021/02/13/when-covid-19-vaccines-meet-the-new-variants-of-the-virus)] 
+[[press: Financial times](https://www.ft.com/content/0cdc8563-1e6d-4089-bedb-b0f675c0d683)]
+
+
 **Hospital load and increased COVID-19 related mortality - a nationwide study in Israel**\
 Hagai Rossman, Tomer Meir, Jonathan Somer, Smadar Shilo, Rom Gutman, Asaf Ben-Arie, Eran Segal, Uri Shalit, Malka Gorfine.\
-[[preprint](https://www.medrxiv.org/content/10.1101/2021.01.11.21249526v1)] [[code](https://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model)] [[press](https://www.vox.com/2021/1/13/22224445/covid-19-deaths-in-us-hospital-beds-icu)]
+[[preprint](https://www.medrxiv.org/content/10.1101/2021.01.11.21249526v3)] [[code](https://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model)] [[press](https://www.vox.com/2021/1/13/22224445/covid-19-deaths-in-us-hospital-beds-icu)]
 
 **Estimating the effect of cesarean delivery on long term childhood health across two countries**\
 Ayya Keshet, Hagai Rossman, Smadar Shilo, Shiri Barbash-Hazan, Guy Amit, Maytal Bivas-Benita, Chen Yanover, Irena Girshovitz, Pinchas Akiva, Avi Ben-Haroush, Eran Hadar, Arnon Wiznitzer, Eran Segal.\
 [[preprint](https://www.medrxiv.org/content/10.1101/2020.12.15.20248167v1)] [[code](https://github.com/ayya-keshet/Causal-Survival-Analysis)]
-
-**Childhood obesity prediction from nationwide health records**\
-Hagai Rossman, Smadar Shilo, Shiri Hazan, Nitzan Artzi, Eran Hadar, Ran Balicer, Becca Feldman, Arnon Wiznitzer, Eran Segal.\
-[[preprint](https://www.medrxiv.org/content/10.1101/2020.11.09.20228247v1)]
 
 **Estimating Heritability of Glycaemic Response to Metformin using Nationwide Electronic Health Records and Population-Sized Pedigree**\
 Iris Kalka, Amir Gavrieli, Smadar Shilo, Hagai Rossman, Nitzan Artzi, Eran Segal.\
