@@ -78,11 +78,10 @@ Childhood Obesity Prediction and Risk Factor Analysis from Nationwide Health Rec
 Rapid deployment of a nationwide symptoms survey during the outbreak and spread of COVID-19 - framework and applications\
 [Life Science Alliance - AI in Healthcare symposium](https://med.stanford.edu/lifesciencealliance/symposium.html), Heilbronn, October 2020
 
+NATO webinar 2021 - Israel’s Best Practices in Enhancing Resilience – the Case of Covid-19  
+
 
 ## Conference & poster presentations
-
-NATO webinar 2021 - Israel’s Best Practices in Enhancing Resilience – the Case of Covid-19\
-Hagai Rossman, Tomer Meir
 
 Childhood obesity prediction and risk factor analysis from nationwide health records\
 Hagai Rossman, Smadar Shilo, Nitzan Artzi, Eran Segal.\
