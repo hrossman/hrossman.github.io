@@ -54,7 +54,7 @@ Hagai Rossman, Tomer Meir, Jonathan Somer, Smadar Shilo, Rom Gutman, Asaf Ben-Ar
 [[preprint](https://www.medrxiv.org/content/10.1101/2021.01.11.21249526v3)] [[code](https://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model)] [[press](https://www.vox.com/2021/1/13/22224445/covid-19-deaths-in-us-hospital-beds-icu)]
 
 **Cohort profile: 10K - a large-scale prospective longitudinal study in Israel**\
-Shilo et. al.\
+Smadar Shilo, Noam Bar, Ayya Keshet, Yeela Talmor-Barkan, Hagai Rossman, Anastasia Godneva, Yaron Aviv, Yochai Edlitz, Lee Reicher, Dmitry Kolobkov, Bat Chen Wolf, Maya Lotan-Pompan, Kohava Levi, Ori Cohen, Hila Saranga, Adina Weinberger, Eran Segal.\
 [[preprint](https://www.medrxiv.org/content/10.1101/2021.02.19.21251487v1)]
 
 **Estimating the effect of cesarean delivery on long term childhood health across two countries**\
