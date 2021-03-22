@@ -12,8 +12,8 @@ author_profile: false
 Hagai Rossman, Smadar Shilo, Shiri Hazan, Nitzan Artzi, Eran Hadar, Ran Balicer, Becca Feldman, Arnon Wiznitzer, Eran Segal.\
 _Journal of Pediatrics 2021_ [[paper](https://www.jpeds.com/article/S0022-3476(21)00119-0/)]
 
-**Signals of hope: Gauging the impact of a rapid national vaccination campaign**\ 
-Smadar Shilo, Hagai Rossman, Eran Segal.\ 
+**Signals of hope: Gauging the impact of a rapid national vaccination campaign**\
+Smadar Shilo, Hagai Rossman, Eran Segal.\
 _Nature Reviews Immunology_ [[paper](https://www.nature.com/articles/s41577-021-00531-0)]
 
 **A framework for identifying regional outbreak and spread of COVID-19 from one-minute population-wide surveys**\
