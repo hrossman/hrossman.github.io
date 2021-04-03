@@ -80,13 +80,16 @@ Sudre, Keshet, et. al.\
 
 
 ## Invited talks
-Childhood Obesity Prediction and Risk Factor Analysis from Nationwide Health Records\
-[NBER - Machine Learning in Health Care](https://www.nber.org/conferences/machine-learning-health-care-spring-2019), Boston, May 2019
+Gauging the impact of a rapid national vaccination campaign\ 
+World Health Organization European Regional Office webinar, March 2021
+
+NATO webinar 2021 - Israel’s Best Practices in Enhancing Resilience – the Case of Covid-19  
 
 Rapid deployment of a nationwide symptoms survey during the outbreak and spread of COVID-19 - framework and applications\
 [Life Science Alliance - AI in Healthcare symposium](https://med.stanford.edu/lifesciencealliance/symposium.html), Heilbronn, October 2020
 
-NATO webinar 2021 - Israel’s Best Practices in Enhancing Resilience – the Case of Covid-19  
+Childhood Obesity Prediction and Risk Factor Analysis from Nationwide Health Records\
+[NBER - Machine Learning in Health Care](https://www.nber.org/conferences/machine-learning-health-care-spring-2019), Boston, May 2019
 
 
 ## Conference & poster presentations
