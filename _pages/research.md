@@ -8,13 +8,21 @@ author_profile: false
 
 ## Published work
 
-**Prediction of Childhood obesity from nationwide health records**\
-Hagai Rossman, Smadar Shilo, Shiri Hazan, Nitzan Artzi, Eran Hadar, Ran Balicer, Becca Feldman, Arnon Wiznitzer, Eran Segal.\
-_Journal of Pediatrics 2021_ [[paper](https://www.jpeds.com/article/S0022-3476(21)00119-0/)]
+**Hospital load and increased COVID-19 related mortality in Israel**\
+Hagai Rossman, Tomer Meir, Jonathan Somer, Smadar Shilo, Rom Gutman, Asaf Ben-Arie, Eran Segal, Uri Shalit, Malka Gorfine.\
+_Nature Communications 2020_ [[paper](https://www.nature.com/articles/s41467-021-22214-z)] [[code](https://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model)] [[press](https://www.vox.com/2021/1/13/22224445/covid-19-deaths-in-us-hospital-beds-icu)]
 
 **Signals of hope: Gauging the impact of a rapid national vaccination campaign**\
 Smadar Shilo, Hagai Rossman, Eran Segal.\
 _Nature Reviews Immunology_ [[paper](https://www.nature.com/articles/s41577-021-00531-0)]
+
+**Prediction of Childhood obesity from nationwide health records**\
+Hagai Rossman, Smadar Shilo, Shiri Hazan, Nitzan Artzi, Eran Hadar, Ran Balicer, Becca Feldman, Arnon Wiznitzer, Eran Segal.\
+_Journal of Pediatrics 2021_ [[paper](https://www.jpeds.com/article/S0022-3476(21)00119-0/)]
+
+**Longitudinal symptom dynamics of COVID-19 infection**\
+Barak Mizrahi, Smadar Shilo, Hagai Rossman, Nir Kalkstein, Karni Marcus, Yael Barer, Ayya Keshet, Na'ama Shamir-Stein, Varda Shalev, Anat Ekka Zohar, Gabriel Chodick, Eran Segal.\
+_Nature Communications 2020_ [[paper](https://www.nature.com/articles/s41467-020-20053-y)] [[blog](https://naturemicrobiologycommunity.nature.com/posts/tracking-the-longitudinal-dynamics-of-symptoms-of-covid-19-infection-in-primary-care)]
 
 **A framework for identifying regional outbreak and spread of COVID-19 from one-minute population-wide surveys**\
 Hagai Rossman, Ayya Keshet, Smadar Shilo, Amir Gavrieli, Tal Bauman, Ori Cohen, Ran Balicer, Benjamin Geiger, Yuval Dor, Eran Segal.\
@@ -36,10 +44,7 @@ _Nature Medicine 2020_ [[paper](https://www.nature.com/articles/s41591-019-0727-
 Saar Shoer, Tal Karady, Ayya Keshet, Smadar Shilo, Hagai Rossman, Amir Gavrieli, Tomer Meir, Amit Lavon, Dmitry Kolobkov, Iris Kalka, Anastasia Godneva, Ori Cohen, Adam Kariv, Ori Hoch, Mushon Zer-Aviv, Noam Castel, Anat Ekka Zohar, Angela Irony, Benjamin Geiger, Dorit Hizi, Varda Shalev, Ran Balicer, Eran Segal.\
 _Med 2020_ [[paper](https://www.sciencedirect.com/science/article/pii/S2666634020300192)]
 
-**Longitudinal symptom dynamics of COVID-19 infection**\
-Barak Mizrahi, Smadar Shilo, Hagai Rossman, Nir Kalkstein, Karni Marcus, Yael Barer, Ayya Keshet, Na'ama Shamir-Stein, Varda Shalev, Anat Ekka Zohar, Gabriel Chodick, Eran Segal.\
-_Nature Communications 2020_ [[paper](https://www.nature.com/articles/s41467-020-20053-y)] [[blog](https://naturemicrobiologycommunity.nature.com/posts/tracking-the-longitudinal-dynamics-of-symptoms-of-covid-19-infection-in-primary-care)]
-
+ 
 
 ## Preprints
 
@@ -49,17 +54,13 @@ Hagai Rossman, Smadar Shilo, Tomer Meir, Malka Gorfine, Uri Shalit, Eran Segal.\
 [[press: Economist](https://www.economist.com/briefing/2021/02/13/when-covid-19-vaccines-meet-the-new-variants-of-the-virus)] 
 [[press: Financial times](https://www.ft.com/content/0cdc8563-1e6d-4089-bedb-b0f675c0d683)]
 
-**Hospital load and increased COVID-19 related mortality - a nationwide study in Israel**\
-Hagai Rossman, Tomer Meir, Jonathan Somer, Smadar Shilo, Rom Gutman, Asaf Ben-Arie, Eran Segal, Uri Shalit, Malka Gorfine.\
-[[preprint](https://www.medrxiv.org/content/10.1101/2021.01.11.21249526v3)] [[code](https://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model)] [[press](https://www.vox.com/2021/1/13/22224445/covid-19-deaths-in-us-hospital-beds-icu)]
+**Estimating the effect of cesarean delivery on long term childhood health across two countries**\
+Ayya Keshet, Hagai Rossman, Smadar Shilo, Shiri Barbash-Hazan, Guy Amit, Maytal Bivas-Benita, Chen Yanover, Irena Girshovitz, Pinchas Akiva, Avi Ben-Haroush, Eran Hadar, Arnon Wiznitzer, Eran Segal.\
+[[preprint](https://www.medrxiv.org/content/10.1101/2020.12.15.20248167v1)] [[code](https://github.com/ayya-keshet/Causal-Survival-Analysis)]
 
 **Cohort profile: 10K - a large-scale prospective longitudinal study in Israel**\
 Smadar Shilo, Noam Bar, Ayya Keshet, Yeela Talmor-Barkan, Hagai Rossman, Anastasia Godneva, Yaron Aviv, Yochai Edlitz, Lee Reicher, Dmitry Kolobkov, Bat Chen Wolf, Maya Lotan-Pompan, Kohava Levi, Ori Cohen, Hila Saranga, Adina Weinberger, Eran Segal.\
 [[preprint](https://www.medrxiv.org/content/10.1101/2021.02.19.21251487v1)]
-
-**Estimating the effect of cesarean delivery on long term childhood health across two countries**\
-Ayya Keshet, Hagai Rossman, Smadar Shilo, Shiri Barbash-Hazan, Guy Amit, Maytal Bivas-Benita, Chen Yanover, Irena Girshovitz, Pinchas Akiva, Avi Ben-Haroush, Eran Hadar, Arnon Wiznitzer, Eran Segal.\
-[[preprint](https://www.medrxiv.org/content/10.1101/2020.12.15.20248167v1)] [[code](https://github.com/ayya-keshet/Causal-Survival-Analysis)]
 
 **Estimating Heritability of Glycaemic Response to Metformin using Nationwide Electronic Health Records and Population-Sized Pedigree**\
 Iris Kalka, Amir Gavrieli, Smadar Shilo, Hagai Rossman, Nitzan Artzi, Eran Segal.\
