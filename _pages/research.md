@@ -10,11 +10,11 @@ author_profile: false
 
 **Hospital load and increased COVID-19 related mortality in Israel**\
 Hagai Rossman, Tomer Meir, Jonathan Somer, Smadar Shilo, Rom Gutman, Asaf Ben-Arie, Eran Segal, Uri Shalit, Malka Gorfine.\
-_Nature Communications 2020_ [[paper](https://www.nature.com/articles/s41467-021-22214-z)] [[code](https://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model)] [[press](https://www.vox.com/2021/1/13/22224445/covid-19-deaths-in-us-hospital-beds-icu)]
+_Nature Communications 2021_ [[paper](https://www.nature.com/articles/s41467-021-22214-z)] [[code](https://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model)] [[press](https://www.vox.com/2021/1/13/22224445/covid-19-deaths-in-us-hospital-beds-icu)]
 
 **Signals of hope: Gauging the impact of a rapid national vaccination campaign**\
 Smadar Shilo, Hagai Rossman, Eran Segal.\
-_Nature Reviews Immunology_ [[paper](https://www.nature.com/articles/s41577-021-00531-0)]
+_Nature Reviews Immunology 2021_ [[paper](https://www.nature.com/articles/s41577-021-00531-0)]
 
 **Prediction of Childhood obesity from nationwide health records**\
 Hagai Rossman, Smadar Shilo, Shiri Hazan, Nitzan Artzi, Eran Hadar, Ran Balicer, Becca Feldman, Arnon Wiznitzer, Eran Segal.\
