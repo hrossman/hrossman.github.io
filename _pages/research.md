@@ -80,7 +80,7 @@ Sudre, Keshet, et. al.\
 
 
 ## Invited talks
-Gauging the impact of a rapid national vaccination campaign\ 
+Gauging the impact of a rapid national vaccination campaign\
 World Health Organization European Regional Office webinar, March 2021
 
 NATO webinar 2021 - Israel’s Best Practices in Enhancing Resilience – the Case of Covid-19  
