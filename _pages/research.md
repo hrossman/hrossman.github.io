@@ -8,9 +8,9 @@ author_profile: false
 
 ## Published work
 
-**COVID-19 dynamics after a national immunization program in Israel**
+**COVID-19 dynamics after a national immunization program in Israel**\
 Hagai Rossman, Smadar Shilo, Tomer Meir, Malka Gorfine, Uri Shalit, Eran Segal.\
-[[paper](https://www.nature.com/articles/s41591-021-01337-2)] 
+_Nature Medicine 2021_ [[paper](https://www.nature.com/articles/s41591-021-01337-2)] 
 [[press: Economist](https://www.economist.com/briefing/2021/02/13/when-covid-19-vaccines-meet-the-new-variants-of-the-virus)] 
 [[press: Financial times](https://www.ft.com/content/0cdc8563-1e6d-4089-bedb-b0f675c0d683)]
 
