@@ -50,6 +50,9 @@ _Nature Medicine 2020_ [[paper](https://www.nature.com/articles/s41591-019-0727-
 Saar Shoer, Tal Karady, Ayya Keshet, Smadar Shilo, Hagai Rossman, Amir Gavrieli, Tomer Meir, Amit Lavon, Dmitry Kolobkov, Iris Kalka, Anastasia Godneva, Ori Cohen, Adam Kariv, Ori Hoch, Mushon Zer-Aviv, Noam Castel, Anat Ekka Zohar, Angela Irony, Benjamin Geiger, Dorit Hizi, Varda Shalev, Ran Balicer, Eran Segal.\
 _Med 2020_ [[paper](https://www.sciencedirect.com/science/article/pii/S2666634020300192)]
 
+**Cohort profile: 10K - a large-scale prospective longitudinal study in Israel**\
+Smadar Shilo, Noam Bar, Ayya Keshet, Yeela Talmor-Barkan, Hagai Rossman, Anastasia Godneva, Yaron Aviv, Yochai Edlitz, Lee Reicher, Dmitry Kolobkov, Bat Chen Wolf, Maya Lotan-Pompan, Kohava Levi, Ori Cohen, Hila Saranga, Adina Weinberger, Eran Segal.\
+_European Journal of Epidemiology 2021_ [[paper](https://link.springer.com/article/10.1007/s10654-021-00753-5)]
  
 
 ## Preprints
@@ -57,10 +60,6 @@ _Med 2020_ [[paper](https://www.sciencedirect.com/science/article/pii/S266663402
 **Estimating the effect of cesarean delivery on long term childhood health across two countries**\
 Ayya Keshet, Hagai Rossman, Smadar Shilo, Shiri Barbash-Hazan, Guy Amit, Maytal Bivas-Benita, Chen Yanover, Irena Girshovitz, Pinchas Akiva, Avi Ben-Haroush, Eran Hadar, Arnon Wiznitzer, Eran Segal.\
 [[preprint](https://www.medrxiv.org/content/10.1101/2020.12.15.20248167v1)] [[code](https://github.com/ayya-keshet/Causal-Survival-Analysis)]
-
-**Cohort profile: 10K - a large-scale prospective longitudinal study in Israel**\
-Smadar Shilo, Noam Bar, Ayya Keshet, Yeela Talmor-Barkan, Hagai Rossman, Anastasia Godneva, Yaron Aviv, Yochai Edlitz, Lee Reicher, Dmitry Kolobkov, Bat Chen Wolf, Maya Lotan-Pompan, Kohava Levi, Ori Cohen, Hila Saranga, Adina Weinberger, Eran Segal.\
-[[preprint](https://www.medrxiv.org/content/10.1101/2021.02.19.21251487v1)]
 
 **Estimating Heritability of Glycaemic Response to Metformin using Nationwide Electronic Health Records and Population-Sized Pedigree**\
 Iris Kalka, Amir Gavrieli, Smadar Shilo, Hagai Rossman, Nitzan Artzi, Eran Segal.\
@@ -80,6 +79,11 @@ Sudre, Keshet, et. al.\
 
 
 ## Invited talks
+
+Yale Math & Econ seminar - May 2021
+
+Israel national Biotechnology teachers seminar - May 2021
+
 Gauging the impact of a rapid national vaccination campaign\
 World Health Organization European Regional Office webinar, March 2021
 
