@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Python library for multistate modeling (with Ayya Keshet and Prof. Malka Gorfine):\nhttps://hrossman.github.io/pymsm\nhttps://github.com/hrossman/pymsm\nCOVID-19 hospitalization multi-state model (with Tomer Meir):\nhttps://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model\nCausal survival analysis code (with Ayya Keshet):\nhttps://github.com/ayya-keshet/Causal-Survival-Analysis\nCOVID-19 Israel symptoms survey:\nhttps://github.com/hrossman/Covid19-Survey\nGlucose dynamics simulator:\nhttps://share.streamlit.io/hrossman/glucose_dynamics_public/main"
-  },
-  {
-    "objectID": "projects.html#oss",
-    "href": "projects.html#oss",
-    "title": "Projects",
-    "section": "",
-    "text": "Python library for multistate modeling (with Ayya Keshet and Prof. Malka Gorfine):\nhttps://hrossman.github.io/pymsm\nhttps://github.com/hrossman/pymsm\nCOVID-19 hospitalization multi-state model (with Tomer Meir):\nhttps://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model\nCausal survival analysis code (with Ayya Keshet):\nhttps://github.com/ayya-keshet/Causal-Survival-Analysis\nCOVID-19 Israel symptoms survey:\nhttps://github.com/hrossman/Covid19-Survey\nGlucose dynamics simulator:\nhttps://share.streamlit.io/hrossman/glucose_dynamics_public/main"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hagai Rossman",
@@ -47,6 +33,20 @@
     "title": "Publications",
     "section": "Conference & poster presentations",
     "text": "Conference & poster presentations\nA Multimodal Dataset of 21,412 Recorded Nights for Sleep and Respiratory Research  Alon Diament, Maria Gorodetski, Adam Jankelow, Ayya Keshet, Tal Shor, Daphna Weissglas-Volkov, Hagai Rossman, Eran Segal.\nNeural Information Processing Systems (NeurIPS) Machine Learning in Health workshop, 2023\nChildhood obesity prediction and risk factor analysis from nationwide health records\nHagai Rossman, Smadar Shilo, Nitzan Artzi, Eran Segal.\nNeural Information Processing Systems (NeurIPS) Machine Learning in Health workshop, Montreal 2018\nLearning metabolic representations of health and disease in multi-omic datasets\nNoam Bar, Hagai Rossman, Amir gavrieli, Uri Shacham, Eran Segal.\nNeural Information Processing Systems (NeurIPS) Learning Meaningful Representations of Life workshop, Vancouver 2019\nLeveraging nationwide data and domain expertise to infer causal effect of cesarean section birth on long term pediatric health\nAyya Keshet, Hagai Rossman, Shiri Hazan, Smadar Shilo, Eran Hadar, Avi Ben-Haroush, Arnon Wiznitzer, Eran Segal.\nMachine Learning in Real Life workshop ICLR 2020\nRapid deployment of a nationwide, one-minute, online symtpoms survey during the outbreak and spread of COVID-19 - framework and application Keshet et. al. ICML 2020 Workshop, Healthcare Systems, Population Health, and the Role of Health-Tech\nWho Should We Test for COVID-19? A Triage Model Built from National Symptom Surveys (Spotlight) Shoer et. al. ICML 2020 Workshop, Healthcare Systems, Population Health, and the Role of Health-Tech"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Python library for multistate modeling (with Ayya Keshet and Prof. Malka Gorfine):\nhttps://hrossman.github.io/pymsm\nhttps://github.com/hrossman/pymsm\nCOVID-19 hospitalization multi-state model (with Tomer Meir):\nhttps://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model\nCausal survival analysis code (with Ayya Keshet):\nhttps://github.com/ayya-keshet/Causal-Survival-Analysis\nCOVID-19 Israel symptoms survey:\nhttps://github.com/hrossman/Covid19-Survey\nGlucose dynamics simulator:\nhttps://share.streamlit.io/hrossman/glucose_dynamics_public/main"
+  },
+  {
+    "objectID": "projects.html#oss",
+    "href": "projects.html#oss",
+    "title": "Projects",
+    "section": "",
+    "text": "Python library for multistate modeling (with Ayya Keshet and Prof. Malka Gorfine):\nhttps://hrossman.github.io/pymsm\nhttps://github.com/hrossman/pymsm\nCOVID-19 hospitalization multi-state model (with Tomer Meir):\nhttps://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model\nCausal survival analysis code (with Ayya Keshet):\nhttps://github.com/ayya-keshet/Causal-Survival-Analysis\nCOVID-19 Israel symptoms survey:\nhttps://github.com/hrossman/Covid19-Survey\nGlucose dynamics simulator:\nhttps://share.streamlit.io/hrossman/glucose_dynamics_public/main"
   },
   {
     "objectID": "other.html",
