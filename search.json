@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hagai Rossman",
     "section": "",
-    "text": "No matching items"
+    "text": "Hi 👋\nI’m Hagai Rossman, a researcher and data scientist with a focus on health data. My interests extend into AI and biomedical data, especially at their intersection.\nCurrently, I am part of a stellar team at Pheno.AI, where we work on projects that lie at the interface of data and health.\nPreviously, I was a Ph.D student in Computer Science at the Weizmann Institute of Science, Segal lab."
+  },
+  {
+    "objectID": "notes/random_notes/quarto_website.html",
+    "href": "notes/random_notes/quarto_website.html",
+    "title": "Quarto website",
+    "section": "",
+    "text": "New website. Wanted to try out Quarto for a long time and finally had the chance. Super simple, definitely reccomended. Learnt about Quarto after working a bit with nbdev, which was also great for something quick.\nLets see if I can actually keep some of my daily notes here."
+  },
+  {
+    "objectID": "notes/llms/instructor.html",
+    "href": "notes/llms/instructor.html",
+    "title": "Structured LLM outputs",
+    "section": "",
+    "text": "Mastering structured outputs and function calling using LLMs (OpenAI and others) is a valuable skill for any DS today. Specificaly we will make use of a the instructor library. The goal is to give a few specific example use cases we might encounter, but the options are vast. Generally, using Pydantic Classes to interact with LLMs allows us to do powerfull stuff easily. Here is an experpt from the docs:\n\nThe question of using Instructor is fundamentally a question of why to use Pydantic:\n- Powered by type hints — Instructor is powered by Pydantic, which is powered by type hints. Schema validation, prompting is controlled by type annotations; less to learn, less code to write, and integrates with your IDE.\n- Powered by OpenAI — Instructor is powered by OpenAI’s function calling API. This means you can use the same API for both prompting and extraction.\n- Customizable — Pydantic is highly customizable. You can define your own validators, custom error messages, and more.\n- Ecosystem - Pydantic is the most widely used data validation library for Python. It’s used by FastAPI, Typer, and many other popular libraries.\n- Battle Tested — Pydantic is downloaded over 100M times per month, and supported by a large community of contributors.\n\nNotebook to explore features and use cases using the instructor lib here: TODO link\nA few examples include fetching medical ontologies from free text, enforcing predefined categories, automatically validating outputs, running batch queries, building knowledge graphs and semi-automating a dictionary-populating process."
   },
   {
     "objectID": "projects.html",
@@ -19,13 +33,6 @@
     "title": "Projects",
     "section": "",
     "text": "Python library for multistate modeling (with Ayya Keshet and Prof. Malka Gorfine):\nhttps://hrossman.github.io/pymsm\nhttps://github.com/hrossman/pymsm\nCOVID-19 hospitalization multi-state model (with Tomer Meir):\nhttps://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model\nCausal survival analysis code (with Ayya Keshet):\nhttps://github.com/ayya-keshet/Causal-Survival-Analysis\nCOVID-19 Israel symptoms survey:\nhttps://github.com/hrossman/Covid19-Survey\nGlucose dynamics simulator:\nhttps://share.streamlit.io/hrossman/glucose_dynamics_public/main"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hagai Rossman",
-    "section": "",
-    "text": "Hi 👋\nI’m Hagai Rossman, a researcher and data scientist with a focus on health data. My interests also extend into AI and biomedical data, especially at their intersection.\nCurrently, I am part of the stellar team at Pheno.AI, where we work on projects that lie at the interface of technology and health.\nPreviously, I was a Ph.D student in Computer Science at the Weizmann Institute of Science, Segal lab."
   },
   {
     "objectID": "publications.html",
@@ -56,11 +63,18 @@
     "text": "Conference & poster presentations\nA Multimodal Dataset of 21,412 Recorded Nights for Sleep and Respiratory Research  Alon Diament, Maria Gorodetski, Adam Jankelow, Ayya Keshet, Tal Shor, Daphna Weissglas-Volkov, Hagai Rossman, Eran Segal.\nNeural Information Processing Systems (NeurIPS) Machine Learning in Health workshop, 2023\nChildhood obesity prediction and risk factor analysis from nationwide health records\nHagai Rossman, Smadar Shilo, Nitzan Artzi, Eran Segal.\nNeural Information Processing Systems (NeurIPS) Machine Learning in Health workshop, Montreal 2018\nLearning metabolic representations of health and disease in multi-omic datasets\nNoam Bar, Hagai Rossman, Amir gavrieli, Uri Shacham, Eran Segal.\nNeural Information Processing Systems (NeurIPS) Learning Meaningful Representations of Life workshop, Vancouver 2019\nLeveraging nationwide data and domain expertise to infer causal effect of cesarean section birth on long term pediatric health\nAyya Keshet, Hagai Rossman, Shiri Hazan, Smadar Shilo, Eran Hadar, Avi Ben-Haroush, Arnon Wiznitzer, Eran Segal.\nMachine Learning in Real Life workshop ICLR 2020\nRapid deployment of a nationwide, one-minute, online symtpoms survey during the outbreak and spread of COVID-19 - framework and application Keshet et. al. ICML 2020 Workshop, Healthcare Systems, Population Health, and the Role of Health-Tech\nWho Should We Test for COVID-19? A Triage Model Built from National Symptom Surveys (Spotlight) Shoer et. al. ICML 2020 Workshop, Healthcare Systems, Population Health, and the Role of Health-Tech"
   },
   {
-    "objectID": "notes/2024-03-07.html",
-    "href": "notes/2024-03-07.html",
-    "title": "Hagai Rossman",
+    "objectID": "notes/llms/tokenizers.html",
+    "href": "notes/llms/tokenizers.html",
+    "title": "Understanding LLM tokens",
     "section": "",
-    "text": "Notes go here"
+    "text": "The Tokenizer Playground - Experiment with different tokenizers (running locally in your browser).\nLet’s build the GPT Tokenizer - Karpathy"
+  },
+  {
+    "objectID": "notes/index.html",
+    "href": "notes/index.html",
+    "title": "Notes",
+    "section": "",
+    "text": "This is a place where I share some of my notes.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nMar 7, 2023\n\n\nQuarto website\n\n\nNew website with Quarto\n\n\n\n\nMar 7, 2023\n\n\nStructured LLM outputs\n\n\nStructured LLM outputs with Instructor\n\n\n\n\nMar 7, 2023\n\n\nUnderstanding LLM tokens\n\n\nRefernces for grasping and playing with…\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "other.html",

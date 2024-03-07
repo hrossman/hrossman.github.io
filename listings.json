@@ -1,8 +1,10 @@
 [
   {
-    "listing": "/notes.html",
+    "listing": "/notes/index.html",
     "items": [
-      "/notes/2024-03-07.html"
+      "/notes/random_notes/quarto_website.html",
+      "/notes/llms/instructor.html",
+      "/notes/llms/tokenizers.html"
     ]
   }
 ]
