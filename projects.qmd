@@ -1,0 +1,23 @@
+---
+title: "Projects"
+---
+
+## OSS  
+
+- Python library for multistate modeling (with Ayya Keshet and Prof. Malka Gorfine):  
+<https://hrossman.github.io/pymsm>  
+<https://github.com/hrossman/pymsm>  
+ 
+- COVID-19 hospitalization multi-state model (with Tomer Meir):  
+<https://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model>   
+
+- Causal survival analysis code (with Ayya Keshet):  
+<https://github.com/ayya-keshet/Causal-Survival-Analysis> 
+  
+- COVID-19 Israel symptoms survey:  
+<https://github.com/hrossman/Covid19-Survey>  
+
+- Glucose dynamics simulator:  
+<https://share.streamlit.io/hrossman/glucose_dynamics_public/main>  
+
+

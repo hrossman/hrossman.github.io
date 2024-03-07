@@ -1,0 +1,15 @@
+---
+title: ""
+---
+
+::: {layout="[21,79]" .profile-header}
+
+![](images/Hagai_Rossman_color.png){.profile-pic}
+
+Hi 👋  
+I'm Hagai Rossman, a researcher and data scientist with a focus on health data. My interests also extend into AI and biomedical data, especially at their intersection.  
+Currently, I am part of the stellar team at [Pheno.AI](https://www.pheno.ai/), where we work on projects that lie at the interface of technology and health.  
+Previously, I was a Ph.D student in Computer Science at the Weizmann Institute of Science, [Segal lab](https://genie.weizmann.ac.il).
+
+:::
+

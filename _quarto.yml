@@ -1,0 +1,44 @@
+project:
+  type: website
+
+website:
+  title: "Hagai Rossman"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - publications.qmd
+      - projects.qmd 
+      - notes.qmd  
+      - other.qmd
+
+    tools:
+      - icon: twitter
+        href: https://twitter.com/H_Rossman
+      - icon: linkedin
+        href: https://www.linkedin.com/in/hagai-rossman/
+      - icon: google
+        href: https://scholar.google.com/citations?user=kQrQJ1gAAAAJ&hl=en
+      - icon: github
+        href: https://github.com/hrossman
+  
+  twitter-card: true
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+
+ 
+ 
+
+
+

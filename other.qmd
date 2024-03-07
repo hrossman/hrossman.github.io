@@ -1,0 +1,38 @@
+---
+title: "Other"
+---
+
+## Teaching
+Massachusetts Institute of Technology, USA\
+Teaching Assistant | 2021\
+[_Machine Learning for Healthcare (MITx 6.871Jx)_](https://www.edx.org/course/machine-learning-for-healthcare?index=product&queryID=bc5748733e0de783967b4c99fd798ff9&position=3) online edx course by Prof. David Sontag & Prof. Peter Szolovits
+
+\
+Weizmann Institute of Science, Israel, Department of Computer Sciences and Mathematics\
+Teaching Assistant | 2019 - 2020\
+_Deep neural networks: A hands on challenge course_ (graduate level)
+
+
+## Invited talks  
+
+The Israel National Institute for Health Policy Research - Modelists Seminar Febuary 2022  
+
+[NATO Operations Research & Analysis conference](https://events.sto.nato.int/index.php/upcoming-events/event-list/event/28-conf/350-15th-nato-ora-conference) - Keynote speaker - October 2021
+
+Yale Math & Econ seminar - May 2021
+
+Israel national Biotechnology teachers seminar - May 2021
+
+Gauging the impact of a rapid national vaccination campaign\
+World Health Organization European Regional Office webinar, March 2021
+
+NATO webinar 2021 - Israel’s Best Practices in Enhancing Resilience – the Case of Covid-19  
+
+Rapid deployment of a nationwide symptoms survey during the outbreak and spread of COVID-19 - framework and applications\
+[Life Science Alliance - AI in Healthcare symposium](https://med.stanford.edu/lifesciencealliance/symposium.html), Heilbronn, October 2020
+
+Childhood Obesity Prediction and Risk Factor Analysis from Nationwide Health Records\
+[NBER - Machine Learning in Health Care](https://www.nber.org/conferences/machine-learning-health-care-spring-2019), Boston, May 2019
+
+
+
