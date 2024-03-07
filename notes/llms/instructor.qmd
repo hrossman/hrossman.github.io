@@ -1,0 +1,24 @@
+---
+title: "Structured LLM outputs"
+description: "Structured LLM outputs with Instructor"
+date: "2023/03/07"
+categories:
+ - LLMs
+ - code
+draft: false
+---
+
+Mastering structured outputs and function calling using LLMs (OpenAI and others) is a valuable skill for any DS today. Specificaly we will make use of a the [instructor library](https://jxnl.github.io/instructor/). The goal is to give a few specific example use cases we might encounter, but the options are vast. Generally, using Pydantic Classes to interact with LLMs allows us to do powerfull stuff easily. Here is an experpt from the docs:
+
+> 
+The question of using Instructor is fundamentally a question of why to use Pydantic:  
+- Powered by type hints — Instructor is powered by Pydantic, which is powered by type hints. Schema validation, prompting is controlled by type annotations; less to learn, less code to write, and integrates with your IDE.  
+- Powered by OpenAI — Instructor is powered by OpenAI's function calling API. This means you can use the same API for both prompting and extraction.  
+- Customizable — Pydantic is highly customizable. You can define your own validators, custom error messages, and more.  
+- Ecosystem - Pydantic is the most widely used data validation library for Python. It's used by FastAPI, Typer, and many other popular libraries.  
+- Battle Tested — Pydantic is downloaded over 100M times per month, and supported by a large community of contributors.  
+
+
+Notebook to explore features and use cases using the instructor lib here: TODO link
+
+A few examples include fetching medical ontologies from free text, enforcing predefined categories, automatically validating outputs, running batch queries, building knowledge graphs and semi-automating a dictionary-populating process.

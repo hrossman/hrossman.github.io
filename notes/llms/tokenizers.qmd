@@ -1,0 +1,15 @@
+
+---
+title: "Understanding LLM tokens"
+description: "Refernces for grasping and playing with tokenizers"
+date: "2023/03/07"
+categories:
+ - LLMs
+ - code
+draft: false
+---
+
+
+[The Tokenizer Playground](https://huggingface.co/spaces/Xenova/the-tokenizer-playground) - Experiment with different tokenizers (running locally in your browser).
+
+[Let's build the GPT Tokenizer - Karpathy](https://www.youtube.com/watch?v=zduSFxRajkE)

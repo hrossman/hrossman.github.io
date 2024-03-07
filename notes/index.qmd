@@ -1,0 +1,11 @@
+---
+id: notes
+title: Notes
+metadata-files: ["_listing_meta.yml"]
+listing:
+  contents: 
+   - "/*.qmd"
+   - "/*/*.qmd"
+---
+
+This is a place where I share some of my notes.

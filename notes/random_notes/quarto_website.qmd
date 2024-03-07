@@ -1,0 +1,9 @@
+---
+title: "Quarto website"
+description: "New website with Quarto"
+date: "2023/03/07"
+categories:
+---
+
+New website. Wanted to try out [Quarto](https://quarto.org/) for a long time and finally had the chance. Super simple, definitely reccomended. Learnt about Quarto after working a bit with [nbdev](https://nbdev.fast.ai/), which was also great for something quick.  
+Lets see if I can actually keep some of my daily notes here.

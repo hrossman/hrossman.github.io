@@ -11,7 +11,7 @@ website:
         file: index.qmd
       - publications.qmd
       - projects.qmd 
-      - notes.qmd  
+      - notes/index.qmd  
       - other.qmd
 
     tools:
@@ -24,7 +24,11 @@ website:
       - icon: github
         href: https://github.com/hrossman
   
-  twitter-card: true
+  twitter-card:
+     creator: "@H_Rossman"
+     site: "@H_Rossman"
+     card-style: summary_large_image
+  site-url: "https://hrossman.github.io/"
 
 format:
   html:
