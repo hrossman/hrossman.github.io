@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hagai Rossman",
-    "section": "",
-    "text": "Hi 👋\nI’m Hagai Rossman, a researcher and data scientist with a focus on health data. My interests also extend into AI and biomedical data, especially at their intersection.\nCurrently, I am part of the stellar team at Pheno.AI, where we work on projects that lie at the interface of technology and health.\nPreviously, I was a Ph.D student in Computer Science at the Weizmann Institute of Science, Segal lab."
-  },
-  {
     "objectID": "notes.html",
     "href": "notes.html",
     "title": "Notes",
@@ -26,6 +19,13 @@
     "title": "Projects",
     "section": "",
     "text": "Python library for multistate modeling (with Ayya Keshet and Prof. Malka Gorfine):\nhttps://hrossman.github.io/pymsm\nhttps://github.com/hrossman/pymsm\nCOVID-19 hospitalization multi-state model (with Tomer Meir):\nhttps://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model\nCausal survival analysis code (with Ayya Keshet):\nhttps://github.com/ayya-keshet/Causal-Survival-Analysis\nCOVID-19 Israel symptoms survey:\nhttps://github.com/hrossman/Covid19-Survey\nGlucose dynamics simulator:\nhttps://share.streamlit.io/hrossman/glucose_dynamics_public/main"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hagai Rossman",
+    "section": "",
+    "text": "Hi 👋\nI’m Hagai Rossman, a researcher and data scientist with a focus on health data. My interests also extend into AI and biomedical data, especially at their intersection.\nCurrently, I am part of the stellar team at Pheno.AI, where we work on projects that lie at the interface of technology and health.\nPreviously, I was a Ph.D student in Computer Science at the Weizmann Institute of Science, Segal lab."
   },
   {
     "objectID": "publications.html",
