@@ -5,7 +5,7 @@ date: "2023/03/07"
 categories:
  - LLMs
  - code
-draft: false
+draft: true
 ---
 
 Mastering structured outputs and function calling using LLMs (OpenAI and others) is a valuable skill for any DS today. Specificaly we will make use of a the [instructor library](https://jxnl.github.io/instructor/). The goal is to give a few specific example use cases we might encounter, but the options are vast. Generally, using Pydantic Classes to interact with LLMs allows us to do powerfull stuff easily. Here is an experpt from the docs:
