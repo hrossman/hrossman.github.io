@@ -1,0 +1,14 @@
+---
+title: "Signals of hope: Gauging the impact of a rapid national vaccination campaign"
+subtitle: "Smadar Shilo, Hagai Rossman, Eran Segal"
+author: "Nature Reviews Immunology"
+date: "2021/03/12"
+image: ../images/signals_2021.png
+
+categories: [Covid-19]
+draft: false
+---
+
+[[paper](https://www.nature.com/articles/s41577-021-00531-0)]
+
+A rapid coronavirus disease 2019 (COVID-19) vaccination rollout has led Israel to become the country with the highest rate of vaccinated individuals per capita worldwide. Here, we summarize the first signs for the real-world effectiveness and impact of the vaccination campaign.

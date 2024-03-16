@@ -1,0 +1,17 @@
+---
+title: "A Multimodal Dataset of 21,412 Recorded Nights for Sleep and Respiratory Research"
+subtitle: "Alon Diament, Maria Gorodetski, Adam Jankelow, Ayya Keshet, Tal Shor, Daphna Weissglas-Volkov, Hagai Rossman, Eran Segal"
+author: "arXiv (preprint)"
+date: "2023/11/15"
+image: ../images/sleep_arxiv_2023.png
+
+categories: [HPP]
+draft: false
+---
+
+[[paper](https://arxiv.org/abs/2311.08979)]
+
+This study introduces a novel, rich dataset obtained from home sleep apnea tests using the FDA-approved WatchPAT-300 device, collected from 7,077 participants over 21,412 nights. The dataset comprises three levels of sleep data: raw multi-channel time-series from sensors, annotated sleep events, and computed summary statistics, which include 447 features related to sleep architecture, sleep apnea, and heart rate variability (HRV). We present reference values for Apnea/Hypopnea Index (AHI), sleep efficiency, Wake After Sleep Onset (WASO), and HRV sample entropy, stratified by age and sex. Moreover, we demonstrate that the dataset improves the predictive capability for various health related traits, including body composition, bone density, blood sugar levels and cardiovascular health. These results illustrate the dataset's potential to advance sleep research, personalized healthcare, and machine learning applications in biomedicine.
+
+
+![](../images/sleep_arxiv_2023.png)

@@ -1,0 +1,23 @@
+---
+title: "A Prediction Model to Prioritize Individuals for a SARS-CoV-2 Test Built from National Symptom Surveys"
+subtitle: "Saar Shoer, Tal Karady, Ayya Keshet, Smadar Shilo, Hagai Rossman, Amir Gavrieli, Tomer Meir, Amit Lavon, Dmitry Kolobkov, Iris Kalka, Anastasia Godneva, Ori Cohen, Adam Kariv, Ori Hoch, Mushon Zer-Aviv, Noam Castel, Anat Ekka Zohar, Angela Irony, Benjamin Geiger, Dorit Hizi, Varda Shalev, Ran Balicer, Eran Segal"
+author: "Med"
+date: "2021/02/12"
+image: ../images/covid_triage_2021.jpg
+
+categories: [Covid-19]
+draft: false
+---
+
+[[paper](https://www.sciencedirect.com/science/article/pii/S2666634020300192)]
+
+
+The gold standard for COVID-19 diagnosis is detection of viral RNA through PCR. Due to global limitations in testing capacity, effective prioritization of individuals for testing is essential.
+
+We devised a model estimating the probability of an individual to test positive for COVID-19 based on answers to 9 simple questions that have been associated with SARS-CoV-2 infection. Our model was devised from a subsample of a national symptom survey that was answered over 2 million times in Israel in its first 2 months and a targeted survey distributed to all residents of several cities in Israel. Overall, 43,752 adults were included, from which 498 self-reported as being COVID-19 positive.
+
+Our model was validated on a held-out set of individuals from Israel where it achieved an auROC of 0.737 (CI: 0.712–0.759) and auPR of 0.144 (CI: 0.119–0.177) and demonstrated its applicability outside of Israel in an independently collected symptom survey dataset from the US, UK, and Sweden. Our analyses revealed interactions between several symptoms and age, suggesting variation in the clinical manifestation of the disease in different age groups.
+
+Our tool can be used online and without exposure to suspected patients, thus suggesting worldwide utility in combating COVID-19 by better directing the limited testing resources through prioritization of individuals for testing, thereby increasing the rate at which positive individuals can be identified. Moreover, individuals at high risk for a positive test result can be isolated prior to testing.
+
+![](../images/covid_triage_2021.jpg)

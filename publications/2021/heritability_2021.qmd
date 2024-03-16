@@ -1,0 +1,12 @@
+---
+title: "Estimating Heritability of Glycaemic Response to Metformin using Nationwide Electronic Health Records and Population-Sized Pedigree"
+subtitle: "Iris Kalka, Amir Gavrieli, Smadar Shilo, Hagai Rossman, Nitzan Artzi, Nancy-Sarah Yacovzada, Eran Segal"
+author: "Communications medicine"
+date: "2021/12/01"
+# image: 
+
+categories: [EHRs]
+draft: false
+---
+
+[[paper](https://www.nature.com/articles/s43856-021-00058-4)]

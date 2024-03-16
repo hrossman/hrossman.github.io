@@ -1,0 +1,15 @@
+---
+title: "The role of models in the covid-19 pandemic"
+subtitle: "David M. Steinberg, Ran D. Balicer, Yoav Benjamini, Hilla De-Leon, Doron Gazit, Hagai Rossman, Eli Sprecher"
+author: "Israel Journal of Health Policy Research"
+date: "2022/10/20"
+# image: 
+
+categories: [Covid-19]
+draft: false
+---
+
+[[paper](https://ijhpr.biomedcentral.com/articles/10.1186/s13584-022-00546-5)]
+
+Mathematical and statistical models have played an important role in the analysis of data from COVID-19. They are important for tracking the progress of the pandemic, for understanding its spread in the population, and perhaps most significantly for forecasting the future course of the pandemic and evaluating potential policy options. This article describes the types of models that were used by research teams in Israel, presents their assumptions and basic elements, and illustrates how they were used, and how they influenced decisions. The article grew out of a “modelists’ dialog” organized by the Israel National Institute for Health Policy Research with participation from some of the leaders in the local modeling effort.
+

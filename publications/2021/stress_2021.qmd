@@ -1,0 +1,15 @@
+
+---
+title: "Stress-related emotional and behavioural impact following the first COVID-19 outbreak peak"
+subtitle: "Asaf Benjamin, Yael Kuperman, Noa Eren, Ron Rotkopf, Maya Amitai, Hagai Rossman, Smadar Shilo, Tomer Meir, Ayya Keshet, Orit Nuttman-Shwartz, Eran Segal, Alon Chen"
+author: "Molecular Psychiatry"
+date: "2021/08/04"
+# image: 
+
+categories: [Covid-19]
+draft: false
+---
+
+[[paper](https://www.nature.com/articles/s41380-021-01219-6)]
+
+The COVID-19 pandemic poses multiple psychologically stressful challenges and is associated with an increased risk for mental illness. Previous studies have focused on the psychopathological symptoms associated with the outbreak peak. Here, we examined the behavioural and mental-health impact of the pandemic in Israel using an online survey, during the six weeks encompassing the end of the first outbreak and the beginning of the second. We used clinically validated instruments to assess anxiety- and depression-related emotional distress, symptoms, and coping strategies, as well as questions designed to specifically assess COVID-19-related concerns. Higher emotional burden was associated with being female, younger, unemployed, living in high socioeconomic status localities, having prior medical conditions, encountering more people, and experiencing physiological symptoms. Our findings highlight the environmental context and its importance in understanding individual ability to cope with the long-term stressful challenges of the pandemic.

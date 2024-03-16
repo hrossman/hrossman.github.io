@@ -1,0 +1,16 @@
+---
+title: "A framework for identifying regional outbreak and spread of COVID-19 from one-minute population-wide surveys"
+subtitle: "Hagai Rossman, Ayya Keshet, Smadar Shilo, Amir Gavrieli, Tal Bauman, Ori Cohen, Ran Balicer, Benjamin Geiger, Yuval Dor, Eran Segal"
+author: "Nature Medicine"
+date: "2020/04/09"
+image: ../images/framework_2020.png
+
+categories: [Covid-19]
+draft: false
+---
+
+[[paper](https://www.nature.com/articles/s41591-020-0857-9)]
+
+Coronavirus infection spreads in clusters, and early identification of these clusters is critical for slowing down the spread of the virus. Here we propose that daily population-wide surveys that assess the development of symptoms caused by the virus could serve as a strategic and valuable tool for identifying such clusters and informing epidemiologists, public-health officials and policymakers. We show preliminary results from an Israeli survey of a cumulative number of over 74,000 responses and call for additional countries to join an international consortium to extend this concept in order to develop predictive models. We expect such data will allow the following: faster detection of spreading zones and patients; acquisition of a current snapshot of the number of people in each area who have developed symptoms; prediction of future spreading zones several days before an outbreak occurs; and evaluation of the effectiveness of the various social-distancing measures taken and their contribution to reducing the number of symptomatic people. This information could provide a valuable tool for decision-makers in those areas in which strengthening of social-distancing measures is needed and those in which such measures can be relieved. Preliminary analysis shows that in neighborhoods with a confirmed patient history of COVID-19, more people report experiencing COVID-19-associated symptoms, which demonstrates the potential utility of our approach for the detection of outbreaks.
+
+![](../images/framework_2020.png)

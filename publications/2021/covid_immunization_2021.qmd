@@ -1,0 +1,19 @@
+---
+title: "COVID-19 dynamics after a national immunization program in Israel"
+subtitle: "Hagai Rossman, Smadar Shilo, Tomer Meir, Malka Gorfine, Uri Shalit, Eran Segal"
+author: "Nature Medicine"
+date: "2021/04/19"
+image: ../images/covid_immunization.png
+
+categories: [Covid-19]
+draft: false
+---
+
+[[paper](https://www.nature.com/articles/s41591-021-01337-2)] 
+[[press: Economist](https://www.economist.com/briefing/2021/02/13/when-covid-19-vaccines-meet-the-new-variants-of-the-virus)] 
+[[press: Financial times](https://www.ft.com/content/0cdc8563-1e6d-4089-bedb-b0f675c0d683)]
+
+
+Studies on the real-life effect of the BNT162b2 vaccine for Coronavirus Disease 2019 (COVID-19) prevention are urgently needed. In this study, we conducted a retrospective analysis of data from the Israeli Ministry of Health collected between 28 August 2020 and 24 February 2021. We studied the temporal dynamics of the number of new COVID-19 cases and hospitalizations after the vaccination campaign, which was initiated on 20 December 2020. To distinguish the possible effects of the vaccination on cases and hospitalizations from other factors, including a third lockdown implemented on 8 January 2021, we performed several comparisons: (1) individuals aged 60 years and older prioritized to receive the vaccine first versus younger age groups; (2) the January lockdown versus the September lockdown; and (3) early-vaccinated versus late-vaccinated cities. A larger and earlier decrease in COVID-19 cases and hospitalization was observed in individuals older than 60 years, followed by younger age groups, by the order of vaccination prioritization. This pattern was not observed in the previous lockdown and was more pronounced in early-vaccinated cities. Our analysis demonstrates the real-life effect of a national vaccination campaign on the pandemic dynamics.
+
+![](../images/covid_immunization.png)

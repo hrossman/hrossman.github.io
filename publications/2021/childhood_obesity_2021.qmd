@@ -1,0 +1,16 @@
+---
+title: "Prediction of Childhood obesity from nationwide health records"
+subtitle: "Hagai Rossman, Smadar Shilo, Shiri Hazan, Nitzan Artzi, Eran Hadar, Ran Balicer, Becca Feldman, Arnon Wiznitzer, Eran Segal"
+author: "Journal of Pediatrics"
+date: "2021/02/10"
+image: ../images/childhood_obesity.png
+
+categories: [EHRs]
+draft: false
+---
+
+[[paper](https://www.jpeds.com/article/S0022-3476(21)00119-0/)]
+
+We analyzed electronic health records of children from Israel's largest healthcare provider from 2002 to 2018. Data included demographics, anthropometric measurements, medications, diagnoses, and laboratory tests of children and their families. Obesity was defined as BMI ≥95th percentile for age and sex. To identify the time window in which the largest annual increases in BMI z score occurs during early childhood, we first analyzed childhood BMI acceleration patterns among 417 915 adolescents. Next, we devised a model targeted to identify children at high risk before this time window, predicting obesity at 5-6 years of age based on data from the first 2 years of life of 132 262 children.
+
+![](../images/childhood_obesity.png)

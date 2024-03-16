@@ -9,7 +9,7 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - publications.qmd
+      - publications/publications.qmd
       - projects.qmd 
       - notes/index.qmd  
       - other.qmd
@@ -40,9 +40,3 @@ format:
 
 execute:
   freeze: auto
-
- 
- 
-
-
-
