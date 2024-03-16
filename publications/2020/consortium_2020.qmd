@@ -1,0 +1,16 @@
+---
+title: "Building an International Consortium for Tracking Coronavirus Health Status"
+subtitle: "Segal et. al."
+author: "Nature Medicine"
+date: "2020/06/2"
+image: ../images/consortium_2020.png
+
+categories: [Covid-19]
+draft: false
+---
+
+[[paper](https://www.nature.com/articles/s41591-020-0929-x)]
+
+In summary, we call for participation in an international consortium, the CCC, that will serve as a hub for the integration of COVID-19-related information. This collective effort to track and share information will be invaluable in predicting hotspots of disease outbreak; identifying which factors control the rate of spreading; informing immediate policy decisions; evaluating the effectiveness of measures taken by health organizations on pandemic control; and providing critical insights on the etiology of COVID-19. It will also help people stay informed on this rapidly evolving situation and contribute to other global efforts to slow the spread of disease.
+
+![](../images/consortium_2020.png)

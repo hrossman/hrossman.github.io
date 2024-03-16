@@ -1,0 +1,17 @@
+---
+title: "Cohort profile: 10K - a large-scale prospective longitudinal study in Israel"
+subtitle: "Smadar Shilo, Noam Bar, Ayya Keshet, Yeela Talmor-Barkan, Hagai Rossman, Anastasia Godneva, Yaron Aviv, Yochai Edlitz, Lee Reicher, Dmitry Kolobkov, Bat Chen Wolf, Maya Lotan-Pompan, Kohava Levi, Ori Cohen, Hila Saranga, Adina Weinberger, Eran Segal"
+author: "European Journal of Epidemiology"
+date: "2021/05/15"
+image: ../images/cohort_10k.png
+
+categories: [HPP]
+draft: false
+---
+
+[[paper](https://link.springer.com/article/10.1007/s10654-021-00753-5)]
+
+The 10 K is a large-scale prospective longitudinal cohort and biobank that was established in Israel. The primary aims of the study include development of prediction models for disease onset and progression and identification of novel molecular markers with a diagnostic, prognostic and therapeutic value. The recruitment was initiated in 2018 and is expected to complete in 2021. Between 28/01/2019 and 13/12/2020, 4,629 from the expected 10,000 participants were recruited (46 %). Follow-up visits are scheduled every year for a total of 25 years. The cohort includes individuals between the ages of 40 and 70 years. Predefined medical conditions were determined as exclusions. Information collected at baseline includes medical history, lifestyle and nutritional habits, vital signs, anthropometrics, blood tests results, Electrocardiography, Ankle–brachial pressure index (ABI), liver US and Dual-energy X-ray absorptiometry (DXA) tests. Molecular profiling includes transcriptome, proteome, gut and oral microbiome, metabolome and immune system profiling. Continuous measurements include glucose levels using a continuous glucose monitoring device for 2 weeks and sleep monitoring by a home sleep apnea test device for 3 nights. Blood and stool samples are collected and stored at − 80 °C in a storage facility for future research. Linkage is being established with national disease registries.
+
+
+![](../images/cohort_10k.png)

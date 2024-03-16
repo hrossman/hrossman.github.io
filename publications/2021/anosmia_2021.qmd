@@ -1,0 +1,13 @@
+
+---
+title: "Anosmia and other SARS-CoV-2 positive test-associated symptoms, across three national, digital surveillance platforms as the COVID-19 pandemic and response unfolded: an observation study"
+subtitle: "Sudre, Keshet, et. al."
+author: "Lancet Digital Health "
+date: "2021/09/01"
+# image: 
+
+categories: [Covid-19]
+draft: false
+---
+
+[[paper](https://www.sciencedirect.com/science/article/pii/S2589750021001151)]

@@ -1,0 +1,17 @@
+---
+title: "Nowcasting the spread of SARS-CoV-2"
+subtitle: "Hagai Rossman, Eran Segal"
+author: "Nature Microbiology"
+date: "2021/12/31"
+image: ../images/nowcasting_2021.png
+
+categories: [Covid-19]
+draft: false
+---
+
+ [[paper](https://www.nature.com/articles/s41564-021-01035-2)]
+
+News & Views: 
+A statistical framework that integrates data from a fine-scale targeted testing scheme and regular randomized surveillance surveys provides unbiased and fine-grained estimates of key SARS-CoV-2 epidemiological parameters that are critical for real-time policy decision-making.
+
+![](../images/nowcasting_2021.png)

@@ -1,0 +1,17 @@
+---
+title: "Prediction of gestational diabetes based on nationwide electronic health records"
+subtitle: "Nitzan Artzi, Smadar Shilo, Eran Hadar, Hagai Rossman, Shiri Hazan, Avi Ben-Haroush, Ran Balicer, Becca Feldman, Arnon Wiznitzer, Eran Segal"
+author: "Nature Medicine"
+date: "2020/01/13"
+image: ../images/gdm_2020.png
+
+categories: [EHRs]
+draft: false
+---
+
+[[paper](https://www.nature.com/articles/s41591-019-0724-8)]
+
+
+Gestational diabetes mellitus (GDM) poses increased risk of short- and long-term complications for mother and offspring1–4. GDM is typically diagnosed at 24–28 weeks of gestation, but earlier detection is desirable as this may prevent or considerably reduce the risk of adverse pregnancy outcomes5,6. Here we used a machine-learning approach to predict GDM on retrospective data of 588,622 pregnancies in Israel for which comprehensive electronic health records were available. Our models predict GDM with high accuracy even at pregnancy initiation (area under the receiver operating curve (auROC) = 0.85), substantially outperforming a baseline risk score (auROC = 0.68). We validated our results on both a future validation set and a geographical validation set from the most populated city in Israel, Jerusalem, thereby emulating real-world performance. Interrogating our model, we uncovered previously unreported risk factors, including results of previous pregnancy glucose challenge tests. Finally, we devised a simpler model based on just nine questions that a patient could answer, with only a modest reduction in accuracy (auROC = 0.80). Overall, our models may allow early-stage intervention in high-risk women, as well as a cost-effective screening approach that could avoid the need for glucose tolerance tests by identifying low-risk women. Future prospective studies and studies on additional populations are needed to assess the real-world clinical utility of the model.
+
+![](../images/gdm_2020.png)

@@ -1,0 +1,23 @@
+---
+title: "Genome-wide association studies and polygenic risk score phenome-wide association studies across complex phenotypes in the human phenotype project"
+subtitle: "Zachary Levine, Iris Kalka, Dmitry Kolobkov, Hagai Rossman, Anastasia Godneva, Smadar Shilo, Ayya Keshet, Daphna Weissglas-Volkov, Tal Shor, Alon Diament, Yeela Talmor-Barkan, Yaron Aviv, Tom Sharon, Adina Weinberger, Eran Segal"
+author: "Med"
+date: "2023/12/01"
+image: ../images/hpp_gwas_2023.jpg
+
+categories: [HPP]
+draft: false
+---
+
+[[paper](https://www.cell.com/med/abstract/S2666-6340(23)00400-2)]
+
+Genome-wide association studies (GWASs) associate phenotypes and genetic variants across a study cohort. GWASs require large-scale cohorts with both phenotype and genetic sequencing data, limiting studied phenotypes. The Human Phenotype Project is a longitudinal study that has measured a wide range of clinical and biomolecular features from a self-assignment cohort over 5 years. The phenotypes collected are quantitative traits, providing higher-resolution insights into the genetics of complex phenotypes.
+
+We present the results of GWASs and polygenic risk score phenome-wide association studies with 729 clinical phenotypes and 4,043 molecular features from the Human Phenotype Project. This includes clinical traits that have not been previously associated with genetics, including measures from continuous sleep monitoring, continuous glucose monitoring, liver ultrasound, hormonal status, and fundus imaging.
+ 
+In GWAS of 8,706 individuals, we found significant associations between 169 clinical traits and 1,184 single-nucleotide polymorphisms. We found genes associated with both glycemic control and mental disorders, and we quantify the strength of genetic signals in serum metabolites. In polygenic risk score phenome-wide association studies for clinical traits, we found 16,047 significant associations.
+
+The entire set of findings, which we disseminate publicly, provides newfound resolution into the genetic architecture of complex human phenotypes.
+
+![](../images/hpp_gwas_2023.jpg)
+

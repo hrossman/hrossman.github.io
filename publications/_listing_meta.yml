@@ -1,0 +1,8 @@
+listing:
+  type: default
+  sort-ui: true
+  filter-ui: true
+  max-description-length: 50
+  date-format: YYYY
+  sort: false
+  categories: true

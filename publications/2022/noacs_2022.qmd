@@ -1,0 +1,20 @@
+---
+title: "Head-to-head efficacy and safety of rivaroxaban, apixaban, and dabigatran in an observational nationwide targeted trial"
+subtitle: "Yeela Talmor-Barkan, Nancy-Sarah Yacovzada, Hagai Rossman, Guy Witberg, Iris Kalka, Ran Kornowski, Eran Segal"
+author: "European Heart Journal-Cardiovascular Pharmacotherapy"
+date: "2022/11/07"
+image: ../images/noacs_2022.png
+
+categories: [EHRs]
+draft: false
+---
+
+[[paper](https://academic.oup.com/ehjcvp/article/9/1/26/6807409)]
+
+The advantages of direct oral anticoagulants (DOACs) over warfarin are well established in atrial fibrillation (AF) patients, however, studies that can guide the selection between different DOACs are limited. The aim was to compare the clinical outcomes of treatment with apixaban, rivaroxaban, and dabigatran in patients with AF.
+
+We conducted a retrospective, nationwide, propensity score-matched-based observational study from Clalit Health Services. Data from 141 992 individuals with AF was used to emulate a target trial for head-to-head comparison of DOACs therapy. Three-matched cohorts of patients assigned to DOACs, from January-2014 through January-2020, were created. One-to-one propensity score matching was performed. Efficacy/safety outcomes were compared using KaplanMeier survival estimates and Cox proportional hazards models. The trial included 56 553 patients (apixaban, n = 35 101; rivaroxaban, n = 15 682; dabigatran, n = 5 770). Mortality and ischaemic stroke rates in patients treated with rivaroxaban were lower compared with apixaban (HR,0.88; 95% CI,0.78–0.99; P,0.037 and HR 0.92; 95% CI,0.86–0.99; P,0.024, respectively). No significant differences in the rates of myocardial infarction, systemic embolism, and overall bleeding were noticed between the different DOACs groups. Patients treated with rivaroxaban demonstrated lower rate of intracranial haemorrhage compared with apixaban (HR,0.86; 95% CI,0.74–1.0; P,0.044). The rate of gastrointestinal bleeding in patients treated with rivaroxaban was higher compared with apixaban (HR, 1.22; 95% CI,1.01–1.44; P, 0.016).
+
+We demonstrated significant differences in outcomes between the three studied DOACs. The results emphasize the need for randomized controlled trials that will compare rivaroxaban, apixaban, and dabigatran in order to better guide the selection among them.
+
+![](../images/noacs_2022.png)

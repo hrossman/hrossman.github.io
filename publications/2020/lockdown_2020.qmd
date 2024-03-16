@@ -1,0 +1,16 @@
+---
+title: "The effect of a national lockdown in response to COVID-19 pandemic on the prevalence of clinical symptoms in the population"
+subtitle: "Ayya Keshet, Amir Gavrieli, Hagai Rossman, Smadar Shilo, Tomer Meir, Tal Karady, Amit Lavon, Dmitry Kolobkov, Iris Kalka, Saar Shoer, Anastasia Godneva, Ori Cohen, Adam Kariv, Ori Hoch, Mushon Zer-Aviv, Noam Castel, Anat Ekka Zohar, Angela Irony, Benjamin Geiger, Yuval Dor, Dorit Hizi, Ran Balicer, Varda Shalev, Eran Segal"
+author: "medArxiv (preprint)"
+date: "2020/12/28"
+image: ../images/lockdown_2020.jpg
+
+categories: [Covid-19]
+draft: false
+---
+
+[[preprint](https://www.medrxiv.org/content/10.1101/2020.04.27.20076000v4)]
+
+The vast and rapid spread of COVID-19 calls for immediate action from policy-makers, and indeed various lockdown measures were implemented in many countries. Here, we utilized nationwide surveys that assess COVID-19 associated symptoms to analyze the effect of the lockdown policy in Israel on the prevalence of clinical symptoms in the population. Daily symptom surveys were distributed online and included fever, respiratory symptoms, gastrointestinal symptoms, anosmia and Ageusia. A total of 1,456,461 survey responses were analyzed. We defined a single measure of symptoms, Symptoms Average (SA), as the mean number of symptoms reported by responders. Data were collected between March 15th to May 11th, 2020. Notably, following severe lockdown measures, we found that between March 15th and April 20th, SA sharply declined by 83.8%, as did every individual symptom, including the most common symptoms reported by our responders, cough and rhinorrhea and\or nasal congestion, which decreased by 74.1% and 69.6%, respectively. Individual symptoms exhibit differences in reduction dynamics, suggesting differences in the medical conditions that they represent or in the nature of the symptoms themselves. The reduction in symptoms was observed in all the cities in Israel, and in several stratifications of demographic characteristics. Between April 20th and May 11th, following several subsequent lockdown relief measures, the decrease in SA and individual symptoms halted and they remain relatively stable with no significant change. Overall, these results demonstrate a profound decrease in a variety of clinical symptoms following the implementation of a lockdown in Israel. As our survey symptoms are not specific to COVID-19 infection, this effect likely represents an overall nationwide reduction in the prevalence of infectious diseases, including COVID-19. This quantification may be of major interest for COVID-19 pandemic, as many countries consider implementation of lockdown strategies.
+
+![](../images/lockdown_2020.jpg)

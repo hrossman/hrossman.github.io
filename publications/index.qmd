@@ -1,0 +1,28 @@
+---
+id: publications
+title: Publications
+metadata-files: ["_listing_meta.yml"]
+# listing:
+#   contents:
+#    - /2023/cgmap_2023.qmd 
+#    - /2021/covid_immunization_2021.qmd
+#    - /2021/hospital_load_2021.qmd
+#    - /2021/childhood_obesity_2021.qmd
+#    - /2022/pymsm_2022.qmd   
+#    - /2022/csect_2022.qmd
+#    - /2020/framework_2020.qmd
+#    - /2021/nowcasting_2021.qmd
+#    - /2020/longitudinal_2020.qmd
+#    - /2020/consortium_2020.qmd
+#    - /2021/signals_2021.qmd
+#    - /2022/covid_models_2022.qmd
+
+
+  #  - /2024/*.qmd
+  #  - /2023/*.qmd
+  #  - /2022/*.qmd
+  #  - /2021/*.qmd
+  #  - /2020/*.qmd
+---
+
+Updated full list at [google scholar](https://scholar.google.com/citations?user=kQrQJ1gAAAAJ&hl=en)

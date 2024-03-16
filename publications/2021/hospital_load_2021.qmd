@@ -1,0 +1,16 @@
+---
+title: "Hospital load and increased COVID-19 related mortality in Israel"
+subtitle: "Hagai Rossman, Tomer Meir, Jonathan Somer, Smadar Shilo, Rom Gutman, Asaf Ben-Arie, Eran Segal, Uri Shalit, Malka Gorfine"
+author: "Nature Communications"
+date: "2021/03/26"
+image: ../images/hospital_load.png
+
+categories: [Covid-19]
+draft: false
+---
+
+[[paper](https://www.nature.com/articles/s41467-021-22214-z)] [[code](https://github.com/tomer1812/covid19-israel-multi-state-hospitalization-model)] [[press](https://www.vox.com/2021/1/13/22224445/covid-19-deaths-in-us-hospital-beds-icu)]
+
+The spread of Coronavirus disease 19 (COVID-19) has led to many healthcare systems being overwhelmed by the rapid emergence of new cases. Here, we study the ramifications of hospital load due to COVID-19 morbidity on in-hospital mortality of patients with COVID-19 by analyzing records of all 22,636 COVID-19 patients hospitalized in Israel from mid-July 2020 to mid-January 2021. We show that even under moderately heavy patient load (>500 countrywide hospitalized severely-ill patients; the Israeli Ministry of Health defined 800 severely-ill patients as the maximum capacity allowing adequate treatment), in-hospital mortality rate of patients with COVID-19 significantly increased compared to periods of lower patient load (250–500 severely-ill patients): 14-day mortality rates were 22.1% (Standard Error 3.1%) higher (mid-September to mid-October) and 27.2% (Standard Error 3.3%) higher (mid-December to mid-January). We further show this higher mortality rate cannot be attributed to changes in the patient population during periods of heavier load.
+
+![](../images/hospital_load.png)

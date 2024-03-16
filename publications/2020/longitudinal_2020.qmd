@@ -1,0 +1,16 @@
+---
+title: "Longitudinal symptom dynamics of COVID-19 infection"
+subtitle: "Barak Mizrahi, Smadar Shilo, Hagai Rossman, Nir Kalkstein, Karni Marcus, Yael Barer, Ayya Keshet, Na'ama Shamir-Stein, Varda Shalev, Anat Ekka Zohar, Gabriel Chodick, Eran Segal"
+author: "Nature Communications"
+date: "2020/12/04"
+image: ../images/longitudinal_2020.png
+
+categories: [Covid-19]
+draft: false
+---
+
+[[paper](https://www.nature.com/articles/s41467-020-20053-y)] [[blog](https://naturemicrobiologycommunity.nature.com/posts/tracking-the-longitudinal-dynamics-of-symptoms-of-covid-19-infection-in-primary-care)]
+
+As the COVID-19 pandemic progresses, obtaining information on symptoms dynamics is of essence. Here, we extracted data from primary-care electronic health records and nationwide distributed surveys to assess the longitudinal dynamics of symptoms prior to and throughout SARS-CoV-2 infection. Information was available for 206,377 individuals, including 2471 positive cases. The two datasources were discordant, with survey data capturing most of the symptoms more sensitively. The most prevalent symptoms included fever, cough and fatigue. Loss of taste and smell 3 weeks prior to testing, either self-reported or recorded by physicians, were the most discriminative symptoms for COVID-19. Additional discriminative symptoms included self-reported headache and fatigue and a documentation of syncope, rhinorrhea and fever. Children had a significantly shorter disease duration. Several symptoms were reported weeks after recovery. By a unique integration of two datasources, our study shed light on the longitudinal course of symptoms experienced by cases in primary care.
+
+![](../images/longitudinal_2020.png)
