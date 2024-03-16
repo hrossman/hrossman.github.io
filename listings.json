@@ -1,5 +1,62 @@
 [
   {
+    "listing": "/publications/publications.html",
+    "items": [
+      "/publications/2023/cgmap_2023.html",
+      "/publications/2021/covid_immunization_2021.html",
+      "/publications/2021/hospital_load_2021.html",
+      "/publications/2021/childhood_obesity_2021.html",
+      "/publications/2022/pymsm_2022.html",
+      "/publications/2022/csect_2022.html",
+      "/publications/2020/framework_2020.html",
+      "/publications/2020/gdm_2020.html",
+      "/publications/2020/axes_2020.html",
+      "/publications/2023/hpp_gwas.html",
+      "/publications/2023/sleep_arxiv_2023.html",
+      "/publications/2021/nowcasting_2021.html",
+      "/publications/2022/noacs_2022.html",
+      "/publications/2020/longitudinal_2020.html",
+      "/publications/2021/cohort_10k.html",
+      "/publications/2020/consortium_2020.html",
+      "/publications/2021/signals_2021.html",
+      "/publications/2021/covid_triage_2021.html",
+      "/publications/2022/covid_models_2022.html",
+      "/publications/2021/heritability_2021.html",
+      "/publications/2021/anosmia_2021.html",
+      "/publications/2021/stress_2021.html",
+      "/publications/2020/lockdown_2020.html"
+    ]
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/2023/sleep_arxiv_2023.html",
+      "/publications/2023/cgmap_2023.html",
+      "/publications/2023/hpp_gwas.html",
+      "/publications/publications.html",
+      "/publications/2021/childhood_obesity_2021.html",
+      "/publications/2021/anosmia_2021.html",
+      "/publications/2021/covid_triage_2021.html",
+      "/publications/2021/hospital_load_2021.html",
+      "/publications/2021/cohort_10k.html",
+      "/publications/2021/stress_2021.html",
+      "/publications/2021/heritability_2021.html",
+      "/publications/2021/covid_immunization_2021.html",
+      "/publications/2021/nowcasting_2021.html",
+      "/publications/2021/signals_2021.html",
+      "/publications/2022/covid_models_2022.html",
+      "/publications/2022/pymsm_2022.html",
+      "/publications/2022/noacs_2022.html",
+      "/publications/2022/csect_2022.html",
+      "/publications/2020/consortium_2020.html",
+      "/publications/2020/longitudinal_2020.html",
+      "/publications/2020/gdm_2020.html",
+      "/publications/2020/axes_2020.html",
+      "/publications/2020/framework_2020.html",
+      "/publications/2020/lockdown_2020.html"
+    ]
+  },
+  {
     "listing": "/notes/index.html",
     "items": [
       "/notes/random_notes/quarto_website.html"
