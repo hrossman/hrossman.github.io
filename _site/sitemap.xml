@@ -2,130 +2,142 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hrossman.github.io/archive/publications_archive.html</loc>
-    <lastmod>2024-03-16T14:46:22.762Z</lastmod>
+    <lastmod>2024-04-08T18:19:07.018Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2022/covid_models_2022.html</loc>
-    <lastmod>2024-03-16T14:46:23.180Z</lastmod>
+    <lastmod>2024-04-08T18:19:07.434Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2022/csect_2022.html</loc>
-    <lastmod>2024-03-16T14:46:23.610Z</lastmod>
+    <lastmod>2024-04-08T18:19:07.871Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2022/noacs_2022.html</loc>
-    <lastmod>2024-03-16T14:46:24.048Z</lastmod>
+    <lastmod>2024-04-08T18:19:08.323Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2022/pymsm_2022.html</loc>
-    <lastmod>2024-03-16T14:46:24.446Z</lastmod>
+    <lastmod>2024-04-08T18:19:08.735Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hrossman.github.io/publications/2024/fundus_2024.html</loc>
+    <lastmod>2024-04-08T18:19:09.164Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hrossman.github.io/publications/2024/comprer_2024.html</loc>
+    <lastmod>2024-04-08T18:19:09.569Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hrossman.github.io/publications/2024/fasting_gluc_2024.html</loc>
+    <lastmod>2024-04-08T18:19:09.969Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2023/hpp_gwas.html</loc>
-    <lastmod>2024-03-16T14:46:24.871Z</lastmod>
+    <lastmod>2024-04-08T18:19:10.390Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2023/sleep_arxiv_2023.html</loc>
-    <lastmod>2024-03-16T14:46:25.262Z</lastmod>
+    <lastmod>2024-04-08T18:19:10.811Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2023/cgmap_2023.html</loc>
-    <lastmod>2024-03-16T14:46:25.651Z</lastmod>
+    <lastmod>2024-04-08T18:19:11.217Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/index.html</loc>
-    <lastmod>2024-03-16T14:46:25.984Z</lastmod>
+    <lastmod>2024-04-08T18:19:11.551Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/publications.html</loc>
-    <lastmod>2024-03-16T14:46:28.040Z</lastmod>
+    <lastmod>2024-04-08T18:19:13.815Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2021/hospital_load_2021.html</loc>
-    <lastmod>2024-03-16T14:46:28.435Z</lastmod>
+    <lastmod>2024-04-08T18:19:14.221Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2021/covid_immunization_2021.html</loc>
-    <lastmod>2024-03-16T14:46:28.835Z</lastmod>
+    <lastmod>2024-04-08T18:19:14.664Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2021/signals_2021.html</loc>
-    <lastmod>2024-03-16T14:46:29.203Z</lastmod>
+    <lastmod>2024-04-08T18:19:15.059Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2021/cohort_10k.html</loc>
-    <lastmod>2024-03-16T14:46:29.635Z</lastmod>
+    <lastmod>2024-04-08T18:19:15.507Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2021/heritability_2021.html</loc>
-    <lastmod>2024-03-16T14:46:30.020Z</lastmod>
+    <lastmod>2024-04-08T18:19:15.889Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2021/nowcasting_2021.html</loc>
-    <lastmod>2024-03-16T14:46:30.376Z</lastmod>
+    <lastmod>2024-04-08T18:19:16.263Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2021/stress_2021.html</loc>
-    <lastmod>2024-03-16T14:46:30.772Z</lastmod>
+    <lastmod>2024-04-08T18:19:16.669Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2021/childhood_obesity_2021.html</loc>
-    <lastmod>2024-03-16T14:46:31.173Z</lastmod>
+    <lastmod>2024-04-08T18:19:17.068Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2021/covid_triage_2021.html</loc>
-    <lastmod>2024-03-16T14:46:31.613Z</lastmod>
+    <lastmod>2024-04-08T18:19:17.502Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2021/anosmia_2021.html</loc>
-    <lastmod>2024-03-16T14:46:31.981Z</lastmod>
+    <lastmod>2024-04-08T18:19:17.870Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2020/axes_2020.html</loc>
-    <lastmod>2024-03-16T14:46:32.384Z</lastmod>
+    <lastmod>2024-04-08T18:19:18.260Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2020/lockdown_2020.html</loc>
-    <lastmod>2024-03-16T14:46:32.845Z</lastmod>
+    <lastmod>2024-04-08T18:19:18.729Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2020/framework_2020.html</loc>
-    <lastmod>2024-03-16T14:46:33.283Z</lastmod>
+    <lastmod>2024-04-08T18:19:19.149Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2020/longitudinal_2020.html</loc>
-    <lastmod>2024-03-16T14:46:33.714Z</lastmod>
+    <lastmod>2024-04-08T18:19:19.571Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2020/consortium_2020.html</loc>
-    <lastmod>2024-03-16T14:46:34.108Z</lastmod>
+    <lastmod>2024-04-08T18:19:19.963Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications/2020/gdm_2020.html</loc>
-    <lastmod>2024-03-16T14:46:34.514Z</lastmod>
+    <lastmod>2024-04-08T18:19:20.380Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/projects.html</loc>
-    <lastmod>2024-03-16T14:46:34.859Z</lastmod>
+    <lastmod>2024-04-08T18:19:20.726Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/index.html</loc>
-    <lastmod>2024-03-16T14:46:35.209Z</lastmod>
+    <lastmod>2024-04-08T18:19:21.084Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/publications.html</loc>
-    <lastmod>2024-03-16T14:46:35.772Z</lastmod>
+    <lastmod>2024-04-08T18:19:21.653Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/notes/index.html</loc>
-    <lastmod>2024-03-16T14:46:36.166Z</lastmod>
+    <lastmod>2024-04-08T18:19:22.048Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/notes/random_notes/quarto_website.html</loc>
-    <lastmod>2024-03-16T14:46:36.530Z</lastmod>
+    <lastmod>2024-04-08T18:19:22.423Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/other.html</loc>
-    <lastmod>2024-03-16T14:46:37.635Z</lastmod>
+    <lastmod>2024-04-08T18:19:23.574Z</lastmod>
   </url>
 </urlset>

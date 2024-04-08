@@ -4,6 +4,9 @@ id: publications
 metadata-files: ["_listing_meta.yml"]
 listing:
   contents:
+   - /2024/fasting_gluc_2024.qmd
+   - /2024/comprer_2024.qmd
+   - /2024/fundus_2024.qmd 
    - /2023/cgmap_2023.qmd 
    - /2021/covid_immunization_2021.qmd
    - /2021/hospital_load_2021.qmd

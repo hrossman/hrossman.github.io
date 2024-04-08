@@ -1,0 +1,16 @@
+---
+title: "Continuous glucose monitoring and intrapersonal variability in fasting glucose"
+subtitle: "Smadar Shilo, Ayya Keshet, Hagai Rossman, Anastasia Godneva, Yeela Talmor-Barkan, Yaron Aviv, Eran Segal"
+author: "Nature Medicine"
+date: "2024/04/08"
+image: ../images/fasting_gluc_2024.png
+
+categories: [HPP]
+draft: false
+---
+
+[[paper](https://www.nature.com/articles/s41591-024-02908-9)]
+
+Plasma fasting glucose (FG) levels play a pivotal role in the diagnosis of prediabetes and diabetes worldwide. Here we investigated FG values using continuous glucose monitoring (CGM) devices in nondiabetic adults aged 40–70 years. FG was measured during 59,565 morning windows of 8,315 individuals (7.16 ± 3.17 days per participant). Mean FG was 96.2 ± 12.87 mg dl−1, rising by 0.234 mg dl−1 per year with age. Intraperson, day-to-day variability expressed as FG standard deviation was 7.52 ± 4.31 mg dl−1. As there are currently no CGM-based criteria for diabetes diagnosis, we analyzed the potential implications of this variability on the classification of glycemic status based on current plasma FG-based diagnostic guidelines. Among 5,328 individuals who would have been considered to have normal FG based on the first FG measurement, 40% and 3% would have been reclassified as having glucose in the prediabetes and diabetes ranges, respectively, based on sequential measurements throughout the study. Finally, we revealed associations between mean FG and various clinical measures. Our findings suggest that careful consideration is necessary when interpreting FG as substantial intraperson variability exists and highlight the potential impact of using CGM data to refine glycemic status assessment.
+
+![](../images/fasting_gluc_2024.png)

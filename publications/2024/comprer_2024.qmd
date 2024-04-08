@@ -1,0 +1,16 @@
+---
+title: "COMPRER: A Multimodal Multi-Objective Pretraining Framework for Enhanced Medical Image Representation"
+subtitle: "Guy Lutsker, Hagai Rossman, Nastya Godneva, Eran Segal"
+author: "medArxiv (preprint)"
+date: "2024/03/25"
+image: ../images/comprer_2024.jpg
+
+categories: [HPP, Methods]
+draft: false
+---
+
+[[paper](https://www.medrxiv.org/content/10.1101/2024.03.17.24304415v2)]
+
+Substantial advances in multi-modal Artificial Intelligence (AI) facilitate the combination of diverse medical modalities to achieve holistic health assessments. We present COMPRER, a novel multi-modal, multi-objective pretraining framework which enhances medical-image representation, diagnostic inferences, and prognosis of diseases. COMPRER employs a multi-objective training framework, where each objective introduces distinct knowledge to the model. This includes a multi-modal loss that consolidates information across different imaging modalities; A temporal loss that imparts the ability to discern patterns over time; Medical-measure prediction adds appropriate medical insights; Lastly, reconstruction loss ensures the integrity of image structure within the latent space. Despite the concern that multiple objectives could weaken task performance, our findings show that this combination actually boosts outcomes on certain tasks. Here, we apply this framework to both fundus images and carotid ultrasound, and validate our downstream tasks capabilities by predicting both current and future cardiovascular conditions. COMPRER achieved higher Area Under the Curve (AUC) scores in evaluating medical conditions compared to existing models on held-out data. On the Out-of-distribution (OOD) UK-Biobank dataset COMPRER maintains favorable performance over well-established models with more parameters, even though these models were trained on 75× more data than COMPRER. In addition, to better assess our model’s performance in contrastive learning, we introduce a novel evaluation metric, providing deeper understanding of the effectiveness of the latent space pairing.
+
+![](../images/comprer_2024.jpg)
