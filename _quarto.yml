@@ -11,7 +11,6 @@ website:
         file: index.qmd
       - publications/publications.qmd
       - projects.qmd 
-      - notes/index.qmd  
       - other.qmd
 
     tools:
