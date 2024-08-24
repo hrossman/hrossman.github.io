@@ -1,0 +1,16 @@
+---
+title: "From Glucose Patterns to Health Outcomes: A Generalizable Foundation Model for Continuous Glucose Monitor Data Analysis"
+subtitle: "Guy Lutsker, Gal Sapir, Anastasia Godneva, Smadar Shilo, Jerry R Greenfield, Dorit Samocha-Bonet, Shie Mannor, Eli Meirom, Gal Chechik, Hagai Rossman, Eran Segal"
+author: "arxiv (preprint)"
+date: "2024/08/22"
+image: ../images/gluformer_2024.jpeg
+
+categories: [HPP]
+draft: false
+---
+
+[[paper](https://arxiv.org/abs/2408.11876)]
+
+Recent advances in self-supervised learning enabled novel medical AI models, known as foundation models (FMs) that offer great potential for characterizing health from diverse biomedical data. Continuous glucose monitoring (CGM) provides rich, temporal data on glycemic patterns, but its full potential for predicting broader health outcomes remains underutilized. Here, we present GluFormer, a generative foundation model on biomedical temporal data based on a transformer architecture, and trained on over 10 million CGM measurements from 10,812 non-diabetic individuals. We tokenized the CGM training data and trained GluFormer using next token prediction in a generative, autoregressive manner. We demonstrate that GluFormer generalizes effectively to 15 different external datasets, including 4936 individuals across 5 different geographical regions, 6 different CGM devices, and several metabolic disorders, including normoglycemic, prediabetic, and diabetic populations, as well as those with gestational diabetes and obesity. GluFormer produces embeddings which outperform traditional CGM analysis tools, and achieves high Pearson correlations in predicting clinical parameters such as HbA1c, liver-related parameters, blood lipids, and sleep-related indices. Notably, GluFormer can also predict onset of future health outcomes even 4 years in advance. We also show that CGM embeddings from pre-intervention periods in Randomized Clinical Trials (RCTs) outperform other methods in predicting primary and secondary outcomes. When integrating dietary data into GluFormer, we show that the enhanced model can accurately generate CGM data based only on dietary intake data, simulate outcomes of dietary interventions, and predict individual responses to specific foods. Overall, we show that GluFormer accurately predicts health outcomes which generalize across different populations metabolic conditions.
+
+![](../images/gluformer_2024.jpeg)
