@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Hagai Rossman"
+  google-analytics: "G-2CBQ88QZ0L"
   navbar:
     background: primary
     search: true
