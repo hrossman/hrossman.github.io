@@ -1,6 +1,9 @@
+# Quarto
 /.quarto/
-publications/images/.DS_Store
-publications/.DS_Store
+_site/
+
+# macOS
 .DS_Store
-.DS_Store
-.DS_Store
+
+# PDFs
+*.pdf

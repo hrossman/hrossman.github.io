@@ -1,1 +1,185 @@
-/* css styles */
+/* Hagai Rossman Academic Site - Custom Styles */
+/* Color scheme: Blueish teal, text-focused, clean */
+
+:root {
+  --primary: #0077b6;
+  --primary-dark: #023e8a;
+  --primary-light: #48cae4;
+  --accent: #00b4d8;
+  --text-primary: #212529;
+  --text-muted: #6c757d;
+  --bg-light: #ffffff;
+  --bg-subtle: #f8f9fa;
+}
+
+/* Override Bootstrap primary color */
+.navbar {
+  background-color: var(--primary) !important;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+/* Links */
+a {
+  color: var(--primary);
+}
+
+a:hover {
+  color: var(--primary-dark);
+}
+
+/* Profile section */
+.profile-section {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+
+.profile-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.profile-info h1 {
+  margin-bottom: 0.25rem;
+  color: var(--text-primary);
+}
+
+.profile-title {
+  color: var(--primary);
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.profile-affiliation {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+/* Research themes */
+.research-theme {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background: var(--bg-subtle);
+  border-left: 4px solid var(--primary);
+  border-radius: 0 8px 8px 0;
+}
+
+.research-theme h3 {
+  color: var(--primary-dark);
+  margin-bottom: 0.75rem;
+}
+
+/* Featured publications */
+.featured-pub {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  transition: border-color 0.2s;
+}
+
+.featured-pub:hover {
+  border-color: var(--primary-light);
+}
+
+.featured-pub h4 {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.featured-pub .venue {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+/* Section headers */
+.section-header {
+  color: var(--primary-dark);
+  border-bottom: 2px solid var(--primary-light);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Software tools list */
+.software-list {
+  list-style: none;
+  padding: 0;
+}
+
+.software-list li {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.software-list li:last-child {
+  border-bottom: none;
+}
+
+/* Contact links */
+.contact-links {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.contact-links a {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+}
+
+/* Dark mode adjustments */
+[data-bs-theme="dark"] {
+  --text-primary: #e9ecef;
+  --text-muted: #adb5bd;
+  --bg-subtle: #1a1a2e;
+}
+
+[data-bs-theme="dark"] .research-theme {
+  background: var(--bg-subtle);
+}
+
+[data-bs-theme="dark"] .featured-pub {
+  border-color: #495057;
+}
+
+[data-bs-theme="dark"] .featured-pub:hover {
+  border-color: var(--primary);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .profile-section {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .profile-photo {
+    width: 150px;
+    height: 150px;
+  }
+
+  .contact-links {
+    justify-content: center;
+  }
+}
+
+/* Clean up default Quarto styles */
+.quarto-title {
+  margin-bottom: 1rem;
+}
+
+/* Publication listing tweaks */
+.quarto-listing-default .listing-title {
+  color: var(--primary-dark);
+}

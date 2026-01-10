@@ -9,9 +9,10 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - publications/publications.qmd
-      - projects.qmd 
-      - other.qmd
+      - text: "Publications"
+        file: publications.md
+      - text: "Other"
+        file: other.md
 
     tools:
       - icon: twitter
@@ -22,7 +23,7 @@ website:
         href: https://scholar.google.com/citations?user=kQrQJ1gAAAAJ&hl=en
       - icon: github
         href: https://github.com/hrossman
-  
+
   twitter-card:
      creator: "@H_Rossman"
      site: "@H_Rossman"

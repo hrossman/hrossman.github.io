@@ -1,15 +1,53 @@
 ---
 title: ""
+toc: false
 ---
 
-::: {layout="[21,79]" .profile-header}
+::: {.profile-section}
 
-![](images/Hagai_Rossman_color.png){.profile-pic}
+![](images/Hagai_Rossman_color.png){.profile-photo}
 
-Hi 👋  
-I'm Hagai Rossman, a researcher and data scientist with a focus on health data. My interests extend into AI and biomedical data, especially at their intersection.  
-Currently, I am part of a stellar team at [Pheno.AI](https://www.pheno.ai/), where we work on projects that lie at the interface of data and health.  
-Previously, I was a Ph.D student in Computer Science at the Weizmann Institute of Science, [Segal lab](https://genie.weizmann.ac.il).
+::: {.profile-info}
+
+# Hagai Rossman
+
+::: {.profile-title}
+Assistant Professor of Personalized Medicine
+:::
+
+::: {.profile-affiliation}
+[Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/)
+
+Chief Scientist, Pheno.AI
+:::
 
 :::
 
+:::
+
+## Research
+
+I develop data-driven computational systems that transform rich biomedical data into actionable health insights. My work integrates data-driven computational modeling and AI methods with clinical knowledge to model disease trajectories and support personalized health interventions in real-world settings.
+
+My research agenda focuses on three interconnected themes: foundation models that learn generalizable representations from multimodal health data; knowledge-infused approaches that ground predictions in biomedical and clinical understanding; and compound AI systems that combine specialized models, agents, and large language models to support complex clinical reasoning and decision making.
+
+I completed my PhD at the [Segal Lab](https://genie.weizmann.ac.il/) at the Weizmann Institute of Science, where I played a central role in establishing and scaling the [Human Phenotype Project (HPP)](https://www.nature.com/articles/s41591-025-03790-9), a large-scale deep phenotyping cohort. My work spanned both the scientific and infrastructural foundations of the project, including the development of predictive models from nationwide electronic health records and high-dimensional phenotypic data.
+
+
+---
+
+## Featured Publications
+
+**[GluFormer: A Generalizable Foundation Model for CGM Data Analysis](https://arxiv.org/abs/2408.11876)**
+A transformer-based foundation model trained on 10 million glucose measurements that generalizes across populations and predicts diverse health outcomes.
+*in press, 2026*
+
+**[Deep phenotyping of health-disease continuum in the Human Phenotype Project](https://www.nature.com/articles/s41591-025-03790-9)**
+Comprehensive deep phenotyping of 36,000 individuals reveals interconnected health dimensions and enables data-driven disease prediction across the health-disease continuum.
+*Nature Medicine, 2025*
+
+**[Axes of a revolution: challenges and promises of big data in healthcare](https://www.nature.com/articles/s41591-019-0727-5)**
+A perspective on how big data and AI are transforming healthcare through personalized medicine, while addressing key challenges in data integration and clinical translation.
+*Nature Medicine, 2020*
+
+[View all publications](publications.md)
