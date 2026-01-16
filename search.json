@@ -14,11 +14,18 @@
     "text": "2025\nDeep phenotyping of health-disease continuum in the Human Phenotype Project\nLee Reicher, Smadar Shilo, Anastasia Godneva, et al.\nNature Medicine [paper]\nPhenome-wide associations of sleep characteristics in the Human Phenotype Project\nSarah Kohn, Alon Diament, Anastasia Godneva, Raja Dhir, Adina Weinberger, Yotam Reisner, Hagai Rossman, Eran Segal.\nNature Medicine [paper]\nMultimodal AI correlates of glucose spikes in people with normal glucose regulation, pre-diabetes and type 2 diabetes\nMattia Carletti, Jay Pandit, Matteo Gadaleta, et al.\nNature Medicine [paper]\nDiet shapes the gut microbiome: cross-sectional and longitudinal insights from the Human Phenotype Project\nTomer Segev, Daniel Barak, Liron Zahavi, Anastasia Godneva, Michal Rein, David Krongauz, Hagai Rossman, Adina Weinberger, Eran Segal.\nmedRxiv preprint [paper]"
   },
   {
+    "objectID": "publications.html#continued",
+    "href": "publications.html#continued",
+    "title": "Publications",
+    "section": "2025 (continued)",
+    "text": "2025 (continued)\nA foundation model for continuous glucose monitoring data\nGuy Lutsker, Gal Sapir, Anastasia Godneva, Smadar Shilo, et al.\nNature [paper]"
+  },
+  {
     "objectID": "publications.html#section-1",
     "href": "publications.html#section-1",
     "title": "Publications",
     "section": "2024",
-    "text": "2024\nGluFormer: A Generalizable Foundation Model for CGM Data Analysis\nGuy Lutsker, Gal Sapir, Anastasia Godneva, Smadar Shilo, et al.\narXiv preprint [paper]\nCOMPRER: A Multimodal Foundation Model for Cardiovascular Imaging\nGuy Lutsker, Hagai Rossman, Nastya Godneva, Eran Segal.\nmedRxiv preprint [paper]\nContinuous glucose monitoring and intrapersonal variability in fasting glucose\nSmadar Shilo, Ayya Keshet, Hagai Rossman, Anastasia Godneva, Yeela Talmor-Barkan, Yaron Aviv, Eran Segal.\nNature Medicine [paper]\nGenome-wide association studies and polygenic risk score phenome-wide association studies across complex phenotypes in the Human Phenotype Project\nZachary Levine, Iris Kalka, Dmitry Kolobkov, Hagai Rossman, et al.\nMed [paper]\nUnveiling associations between retinal microvascular architecture and phenotypes across thousands of healthy subjects\nMichal Shapira, Smadar Shilo, Yeela Talmor-Barkan, et al.\nmedRxiv preprint [paper]"
+    "text": "2024\nCOMPRER: A Multimodal Foundation Model for Cardiovascular Imaging\nGuy Lutsker, Hagai Rossman, Nastya Godneva, Eran Segal.\nmedRxiv preprint [paper]\nContinuous glucose monitoring and intrapersonal variability in fasting glucose\nSmadar Shilo, Ayya Keshet, Hagai Rossman, Anastasia Godneva, Yeela Talmor-Barkan, Yaron Aviv, Eran Segal.\nNature Medicine [paper]\nGenome-wide association studies and polygenic risk score phenome-wide association studies across complex phenotypes in the Human Phenotype Project\nZachary Levine, Iris Kalka, Dmitry Kolobkov, Hagai Rossman, et al.\nMed [paper]\nUnveiling associations between retinal microvascular architecture and phenotypes across thousands of healthy subjects\nMichal Shapira, Smadar Shilo, Yeela Talmor-Barkan, et al.\nmedRxiv preprint [paper]"
   },
   {
     "objectID": "publications.html#section-2",
@@ -67,7 +74,7 @@
     "href": "index.html#featured-publications",
     "title": "Hagai Rossman",
     "section": "Featured Publications",
-    "text": "Featured Publications\nGluFormer: A Generalizable Foundation Model for CGM Data Analysis A transformer-based foundation model trained on 10 million glucose measurements that generalizes across populations and predicts diverse health outcomes. in press, 2026\nDeep phenotyping of health-disease continuum in the Human Phenotype Project Comprehensive deep phenotyping of 36,000 individuals reveals interconnected health dimensions and enables data-driven disease prediction across the health-disease continuum. Nature Medicine, 2025\nAxes of a revolution: challenges and promises of big data in healthcare A perspective on how big data and AI are transforming healthcare through personalized medicine, while addressing key challenges in data integration and clinical translation. Nature Medicine, 2020\nView all publications"
+    "text": "Featured Publications\nA foundation model for continuous glucose monitoring data A transformer-based foundation model trained on 10 million glucose measurements that generalizes across populations and predicts diverse health outcomes. Nature, 2025\nDeep phenotyping of health-disease continuum in the Human Phenotype Project Comprehensive deep phenotyping of 36,000 individuals reveals interconnected health dimensions and enables data-driven disease prediction across the health-disease continuum. Nature Medicine, 2025\nAxes of a revolution: challenges and promises of big data in healthcare A perspective on how big data and AI are transforming healthcare through personalized medicine, while addressing key challenges in data integration and clinical translation. Nature Medicine, 2020\nView all publications"
   },
   {
     "objectID": "other.html",
