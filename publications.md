@@ -24,8 +24,6 @@ Mattia Carletti, Jay Pandit, Matteo Gadaleta, et al.\
 Tomer Segev, Daniel Barak, Liron Zahavi, Anastasia Godneva, Michal Rein, David Krongauz, Hagai Rossman, Adina Weinberger, Eran Segal.\
 *medRxiv preprint* [[paper](https://www.medrxiv.org/content/10.1101/2025.10.12.25337559)]
 
-## 2025 (continued)
-
 **A foundation model for continuous glucose monitoring data**\
 Guy Lutsker, Gal Sapir, Anastasia Godneva, Smadar Shilo, et al.\
 *Nature* [[paper](https://www.nature.com/articles/s41586-025-09925-9)]
