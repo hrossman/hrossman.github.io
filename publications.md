@@ -24,11 +24,13 @@ Mattia Carletti, Jay Pandit, Matteo Gadaleta, et al.\
 Tomer Segev, Daniel Barak, Liron Zahavi, Anastasia Godneva, Michal Rein, David Krongauz, Hagai Rossman, Adina Weinberger, Eran Segal.\
 *medRxiv preprint* [[paper](https://www.medrxiv.org/content/10.1101/2025.10.12.25337559)]
 
-## 2024
+## 2025 (continued)
 
-**GluFormer: A Generalizable Foundation Model for CGM Data Analysis**\
+**A foundation model for continuous glucose monitoring data**\
 Guy Lutsker, Gal Sapir, Anastasia Godneva, Smadar Shilo, et al.\
-*arXiv preprint* [[paper](https://arxiv.org/abs/2408.11876)]
+*Nature* [[paper](https://www.nature.com/articles/s41586-025-09925-9)]
+
+## 2024
 
 **COMPRER: A Multimodal Foundation Model for Cardiovascular Imaging**\
 Guy Lutsker, Hagai Rossman, Nastya Godneva, Eran Segal.\

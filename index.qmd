@@ -38,9 +38,9 @@ I completed my PhD at the [Segal Lab](https://genie.weizmann.ac.il/) at the Weiz
 
 ## Featured Publications
 
-**[GluFormer: A Generalizable Foundation Model for CGM Data Analysis](https://arxiv.org/abs/2408.11876)**
+**[A foundation model for continuous glucose monitoring data](https://www.nature.com/articles/s41586-025-09925-9)**
 A transformer-based foundation model trained on 10 million glucose measurements that generalizes across populations and predicts diverse health outcomes.
-*in press, 2026*
+*Nature, 2025*
 
 **[Deep phenotyping of health-disease continuum in the Human Phenotype Project](https://www.nature.com/articles/s41591-025-03790-9)**
 Comprehensive deep phenotyping of 36,000 individuals reveals interconnected health dimensions and enables data-driven disease prediction across the health-disease continuum.
