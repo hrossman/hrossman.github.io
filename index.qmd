@@ -12,7 +12,7 @@ toc: false
 # Hagai Rossman
 
 ::: {.profile-title}
-Affiliated Assistant Professor of Personalized Medicine
+Assistant Professor of Personalized Medicine
 :::
 
 ::: {.profile-affiliation}
