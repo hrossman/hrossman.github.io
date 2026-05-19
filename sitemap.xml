@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://hrossman.github.io/other.html</loc>
+    <lastmod>2026-05-19T08:58:52.169Z</lastmod>
+  </url>
+  <url>
     <loc>https://hrossman.github.io/publications.html</loc>
-    <lastmod>2026-01-16T04:47:45.258Z</lastmod>
+    <lastmod>2026-05-19T08:58:52.169Z</lastmod>
   </url>
   <url>
     <loc>https://hrossman.github.io/index.html</loc>
-    <lastmod>2026-01-16T04:47:45.258Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hrossman.github.io/other.html</loc>
-    <lastmod>2026-01-16T04:47:45.258Z</lastmod>
+    <lastmod>2026-05-19T08:58:52.169Z</lastmod>
   </url>
 </urlset>

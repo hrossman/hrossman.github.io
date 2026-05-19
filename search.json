@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "Other",
+    "section": "",
+    "text": "Machines Can Think Summit, Abu Dhabi - “The Human Phenotype Project: Personalized Medicine Based on Deep Human Phenotyping”, January 2026\nThe Israel National Institute for Health Policy Research - Modelists Seminar, February 2022\nNATO Operations Research & Analysis Conference - Keynote Speaker, October 2021\nYale Math & Economics Seminar - May 2021\nIsrael National Biotechnology Teachers Seminar - May 2021\nWorld Health Organization European Regional Office - “Gauging the Impact of a Rapid National Vaccination Campaign” webinar, March 2021\nNATO Webinar 2021 - Israel’s Best Practices in Enhancing Resilience: The Case of COVID-19\nLife Science Alliance - AI in Healthcare Symposium, Heilbronn - “Rapid Deployment of a Nationwide Symptoms Survey During the Outbreak and Spread of COVID-19”, October 2020\nNBER - Machine Learning in Health Care, Boston - “Childhood Obesity Prediction and Risk Factor Analysis from Nationwide Health Records”, May 2019"
+  },
+  {
+    "objectID": "other.html#invited-talks",
+    "href": "other.html#invited-talks",
+    "title": "Other",
+    "section": "",
+    "text": "Machines Can Think Summit, Abu Dhabi - “The Human Phenotype Project: Personalized Medicine Based on Deep Human Phenotyping”, January 2026\nThe Israel National Institute for Health Policy Research - Modelists Seminar, February 2022\nNATO Operations Research & Analysis Conference - Keynote Speaker, October 2021\nYale Math & Economics Seminar - May 2021\nIsrael National Biotechnology Teachers Seminar - May 2021\nWorld Health Organization European Regional Office - “Gauging the Impact of a Rapid National Vaccination Campaign” webinar, March 2021\nNATO Webinar 2021 - Israel’s Best Practices in Enhancing Resilience: The Case of COVID-19\nLife Science Alliance - AI in Healthcare Symposium, Heilbronn - “Rapid Deployment of a Nationwide Symptoms Survey During the Outbreak and Spread of COVID-19”, October 2020\nNBER - Machine Learning in Health Care, Boston - “Childhood Obesity Prediction and Risk Factor Analysis from Nationwide Health Records”, May 2019"
+  },
+  {
+    "objectID": "other.html#academic-activities",
+    "href": "other.html#academic-activities",
+    "title": "Other",
+    "section": "Academic Activities",
+    "text": "Academic Activities\n\nHelped organize HPP Global 2026: From Deep-Phenotype Data to Personalized Medicine, February 2026"
+  },
+  {
+    "objectID": "other.html#teaching",
+    "href": "other.html#teaching",
+    "title": "Other",
+    "section": "Teaching",
+    "text": "Teaching\nMassachusetts Institute of Technology, USA Teaching Assistant | 2021 Machine Learning for Healthcare (MITx 6.871Jx) - online edX course by Prof. David Sontag & Prof. Peter Szolovits\nWeizmann Institute of Science, Israel Department of Computer Science and Mathematics Teaching Assistant | 2019 - 2020 Deep Neural Networks: A Hands-on Challenge Course (graduate level)"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -10,43 +38,50 @@
     "objectID": "publications.html#section",
     "href": "publications.html#section",
     "title": "Publications",
-    "section": "2025",
-    "text": "2025\nDeep phenotyping of health-disease continuum in the Human Phenotype Project\nLee Reicher, Smadar Shilo, Anastasia Godneva, et al.\nNature Medicine [paper]\nPhenome-wide associations of sleep characteristics in the Human Phenotype Project\nSarah Kohn, Alon Diament, Anastasia Godneva, Raja Dhir, Adina Weinberger, Yotam Reisner, Hagai Rossman, Eran Segal.\nNature Medicine [paper]\nMultimodal AI correlates of glucose spikes in people with normal glucose regulation, pre-diabetes and type 2 diabetes\nMattia Carletti, Jay Pandit, Matteo Gadaleta, et al.\nNature Medicine [paper]\nDiet shapes the gut microbiome: cross-sectional and longitudinal insights from the Human Phenotype Project\nTomer Segev, Daniel Barak, Liron Zahavi, Anastasia Godneva, Michal Rein, David Krongauz, Hagai Rossman, Adina Weinberger, Eran Segal.\nmedRxiv preprint [paper]\nA foundation model for continuous glucose monitoring data\nGuy Lutsker, Gal Sapir, Anastasia Godneva, Smadar Shilo, et al.\nNature [paper]"
+    "section": "2026",
+    "text": "2026\nHeterogeneity of Insulin Resistance Surrogates in Thousands of Non-Diabetic Adults: Multi-Modal Data Reveals Discordant Metabolic Phenotypes\nSmadar Shilo, Yeela Talmor-Barkan, Maria Gorodetski, Dana Azouri, Anastasia Godneva, Eran Segal, Hagai Rossman.\nmedRxiv [preprint] [code]\nSimulating clinical interventions with a generative multimodal model of human physiology\nGuy Lutsker, Gal Sapir, Jordi Merino, Smadar Shilo, Anastasia Godneva, Eli Meirom, Shie Mannor, Hagai Rossman, Gal Chechik, Eran Segal.\narXiv [preprint]\nDiet-microbiome associations in 10,068 individuals from the Human Phenotype Project to guide personalized nutrition\nTomer Segev, Daniel Barak, Liron Zahavi, Anastasia Godneva, Michal Rein, David Krongauz, Dorit Samocha-Bonet, Hagai Rossman, Adina Weinberger, Eran Segal.\nNature Medicine [paper] [preprint] [code]\nDay-to-day dietary variation shapes overnight sleep physiology: a target-trial emulation in 4.8 thousand person-nights\nMariya Shkolnik, Gal Sapir, Smadar Shilo, Yeela Talmor-Barkan, Eran Segal, Hagai Rossman.\nmedRxiv [preprint] [code]\nA foundation model for continuous glucose monitoring data\nGuy Lutsker, Gal Sapir, Smadar Shilo, Jordi Merino, Anastasia Godneva, Jerry R. Greenfield, Dorit Samocha-Bonet, Raja Dhir, Francisco Gude, Shie Mannor, Eli Meirom, Eric P. Xing, Gal Chechik, Hagai Rossman, Eran Segal.\nNature [paper] [code]"
   },
   {
     "objectID": "publications.html#section-1",
     "href": "publications.html#section-1",
     "title": "Publications",
-    "section": "2024",
-    "text": "2024\nCOMPRER: A Multimodal Foundation Model for Cardiovascular Imaging\nGuy Lutsker, Hagai Rossman, Nastya Godneva, Eran Segal.\nmedRxiv preprint [paper]\nContinuous glucose monitoring and intrapersonal variability in fasting glucose\nSmadar Shilo, Ayya Keshet, Hagai Rossman, Anastasia Godneva, Yeela Talmor-Barkan, Yaron Aviv, Eran Segal.\nNature Medicine [paper]\nGenome-wide association studies and polygenic risk score phenome-wide association studies across complex phenotypes in the Human Phenotype Project\nZachary Levine, Iris Kalka, Dmitry Kolobkov, Hagai Rossman, et al.\nMed [paper]\nUnveiling associations between retinal microvascular architecture and phenotypes across thousands of healthy subjects\nMichal Shapira, Smadar Shilo, Yeela Talmor-Barkan, et al.\nmedRxiv preprint [paper]"
+    "section": "2025",
+    "text": "2025\n0054 The Human Phenotype Project: Metabolomic Signatures of Sleep Characteristics Reveal Gender-Specific Insights\nSarah Kohn, Alon Diament, Anastasia Godneva, Raja Dhir, Adina Weinberger, Yotam Reisner, Hagai Rossman, Eran Segal.\nSLEEP [abstract]\nDelta ECG: A Genetic Perspective\nZachary Levine, Hagai Rossman, Eran Segal.\nICLR 2025 Learning Meaningful Representations of Life Workshop [workshop page] [openreview]\nPhenome-wide associations of sleep characteristics in the Human Phenotype Project\nSarah Kohn, Alon Diament, Anastasia Godneva, Raja Dhir, Adina Weinberger, Yotam Reisner, Hagai Rossman, Eran Segal.\nNature Medicine [paper]\nMultimodal AI correlates of glucose spikes in people with normal glucose regulation, pre-diabetes and type 2 diabetes\nMattia Carletti, Jay Pandit, Matteo Gadaleta, et al.\nNature Medicine [paper]\nDeep phenotyping of health-disease continuum in the Human Phenotype Project\nLee Reicher, Smadar Shilo, Anastasia Godneva, et al.\nNature Medicine [paper]"
   },
   {
     "objectID": "publications.html#section-2",
     "href": "publications.html#section-2",
     "title": "Publications",
-    "section": "2023",
-    "text": "2023\nCGMap: Characterizing continuous glucose monitor data in thousands of non-diabetic individuals\nAyya Keshet, Smadar Shilo, Anastasia Godneva, Yeela Talmor-Barkan, Yaron Aviv, Eran Segal, Hagai Rossman.\nCell Metabolism [paper]\nHead-to-head efficacy and safety of rivaroxaban, apixaban, and dabigatran in an observational nationwide targeted trial\nYeela Talmor-Barkan, Nancy-Sarah Yacovzada, Hagai Rossman, Guy Witberg, Iris Kalka, Ran Kornowski, Eran Segal.\nEuropean Heart Journal - Cardiovascular Pharmacotherapy [paper]\nA Multimodal Dataset of 21,412 Recorded Nights for Sleep and Respiratory Research\nAlon Diament, Maria Gorodetski, Adam Jankelow, Ayya Keshet, Tal Shor, Daphna Weissglas-Volkov, Hagai Rossman, Eran Segal.\nNeurIPS ML4H Workshop [paper]"
+    "section": "2024",
+    "text": "2024\nUnveiling associations between retinal microvascular architecture and phenotypes across thousands of healthy subjects\nMichal Shapira, Smadar Shilo, Yeela Talmor-Barkan, et al.\nmedRxiv preprint [paper]\nGenome-wide association studies and polygenic risk score phenome-wide association studies across complex phenotypes in the Human Phenotype Project\nZachary Levine, Iris Kalka, Dmitry Kolobkov, Hagai Rossman, et al.\nMed [paper]\nContinuous glucose monitoring and intrapersonal variability in fasting glucose\nSmadar Shilo, Ayya Keshet, Hagai Rossman, Anastasia Godneva, Yeela Talmor-Barkan, Yaron Aviv, Eran Segal.\nNature Medicine [paper]\nCOMPRER: A Multimodal Foundation Model for Cardiovascular Imaging\nGuy Lutsker, Hagai Rossman, Nastya Godneva, Eran Segal.\nmedRxiv preprint [paper]"
   },
   {
     "objectID": "publications.html#section-3",
     "href": "publications.html#section-3",
     "title": "Publications",
-    "section": "2022",
-    "text": "2022\nPyMSM: Python package for Competing Risks and Multi-State models for Survival Data\nHagai Rossman, Ayya Keshet, Malka Gorfine.\nJOSS [paper] [code]\nThe role of models in the covid-19 pandemic\nDavid M. Steinberg, Ran D. Balicer, Yoav Benjamini, Hilla De-Leon, Doron Gazit, Hagai Rossman, Eli Sprecher.\nIsrael Journal of Health Policy Research [paper]\nEstimating the effect of cesarean delivery on long-term childhood health across two countries\nAyya Keshet, Hagai Rossman, Smadar Shilo, et al.\nPLOS ONE [paper] [code]"
+    "section": "2023",
+    "text": "2023\nHead-to-head efficacy and safety of rivaroxaban, apixaban, and dabigatran in an observational nationwide targeted trial\nYeela Talmor-Barkan, Nancy-Sarah Yacovzada, Hagai Rossman, Guy Witberg, Iris Kalka, Ran Kornowski, Eran Segal.\nEuropean Heart Journal - Cardiovascular Pharmacotherapy [paper]\nCGMap: Characterizing continuous glucose monitor data in thousands of non-diabetic individuals\nAyya Keshet, Smadar Shilo, Anastasia Godneva, Yeela Talmor-Barkan, Yaron Aviv, Eran Segal, Hagai Rossman.\nCell Metabolism [paper]\nA Multimodal Dataset of 21,412 Recorded Nights for Sleep and Respiratory Research\nAlon Diament, Maria Gorodetski, Adam Jankelow, Ayya Keshet, Tal Shor, Daphna Weissglas-Volkov, Hagai Rossman, Eran Segal.\nNeurIPS ML4H Workshop [paper]"
   },
   {
     "objectID": "publications.html#section-4",
     "href": "publications.html#section-4",
     "title": "Publications",
-    "section": "2021",
-    "text": "2021\nCOVID-19 dynamics after a national immunization program in Israel\nHagai Rossman, Smadar Shilo, Tomer Meir, Malka Gorfine, Uri Shalit, Eran Segal.\nNature Medicine [paper] [press: Economist] [press: Financial Times]\nHospital load and increased COVID-19 related mortality in Israel\nHagai Rossman, Tomer Meir, Jonathan Somer, Smadar Shilo, Rom Gutman, Asaf Ben-Arie, Eran Segal, Uri Shalit, Malka Gorfine.\nNature Communications [paper] [code]\nPrediction of childhood obesity from nationwide health records\nHagai Rossman, Smadar Shilo, Shiri Hazan, Nitzan Artzi, Eran Hadar, Ran Balicer, Becca Feldman, Arnon Wiznitzer, Eran Segal.\nJournal of Pediatrics [paper]\nNowcasting the spread of SARS-CoV-2\nHagai Rossman, Eran Segal.\nNature Microbiology [paper]\nSignals of hope: Gauging the impact of a rapid national vaccination campaign\nSmadar Shilo, Hagai Rossman, Eran Segal.\nNature Reviews Immunology [paper]\nCohort profile: 10K - a large-scale prospective longitudinal study in Israel\nSmadar Shilo, Noam Bar, Ayya Keshet, et al.\nEuropean Journal of Epidemiology [paper]\nStress-related emotional and behavioural impact following the first COVID-19 outbreak peak\nAsaf Benjamin, Yael Kuperman, Noa Eren, et al.\nMolecular Psychiatry [paper]\nAnosmia, ageusia, and other COVID-19-like symptoms in association with a positive SARS-CoV-2 test\nCarole H Sudre, Ayya Keshet, et al.\nLancet Digital Health [paper]\nEstimating heritability of glycaemic response to metformin using nationwide electronic health records and population-sized pedigree\nIris Kalka, Amir Gavrieli, Smadar Shilo, Hagai Rossman, Nitzan Artzi, Nancy-Sarah Yacovzada, Eran Segal.\nCommunications Medicine [paper]\nA prediction model to prioritize individuals for a SARS-CoV-2 test built from national symptom surveys\nSaar Shoer, Tal Karady, Ayya Keshet, Smadar Shilo, Hagai Rossman, et al.\nMed [paper]"
+    "section": "2022",
+    "text": "2022\nThe role of models in the covid-19 pandemic\nDavid M. Steinberg, Ran D. Balicer, Yoav Benjamini, Hilla De-Leon, Doron Gazit, Hagai Rossman, Eli Sprecher.\nIsrael Journal of Health Policy Research [paper]\nPyMSM: Python package for Competing Risks and Multi-State models for Survival Data\nHagai Rossman, Ayya Keshet, Malka Gorfine.\nJOSS [paper] [code]\nEstimating the effect of cesarean delivery on long-term childhood health across two countries\nAyya Keshet, Hagai Rossman, Smadar Shilo, et al.\nPLOS ONE [paper] [code]"
   },
   {
     "objectID": "publications.html#section-5",
     "href": "publications.html#section-5",
     "title": "Publications",
+    "section": "2021",
+    "text": "2021\nStress-related emotional and behavioural impact following the first COVID-19 outbreak peak\nAsaf Benjamin, Yael Kuperman, Noa Eren, et al.\nMolecular Psychiatry [paper]\nSignals of hope: Gauging the impact of a rapid national vaccination campaign\nSmadar Shilo, Hagai Rossman, Eran Segal.\nNature Reviews Immunology [paper]\nPrediction of childhood obesity from nationwide health records\nHagai Rossman, Smadar Shilo, Shiri Hazan, Nitzan Artzi, Eran Hadar, Ran Balicer, Becca Feldman, Arnon Wiznitzer, Eran Segal.\nJournal of Pediatrics [paper]\nNowcasting the spread of SARS-CoV-2\nHagai Rossman, Eran Segal.\nNature Microbiology [paper]\nHospital load and increased COVID-19 related mortality in Israel\nHagai Rossman, Tomer Meir, Jonathan Somer, Smadar Shilo, Rom Gutman, Asaf Ben-Arie, Eran Segal, Uri Shalit, Malka Gorfine.\nNature Communications [paper] [code]\nEstimating heritability of glycaemic response to metformin using nationwide electronic health records and population-sized pedigree\nIris Kalka, Amir Gavrieli, Smadar Shilo, Hagai Rossman, Nitzan Artzi, Nancy-Sarah Yacovzada, Eran Segal.\nCommunications Medicine [paper]\nCohort profile: 10K - a large-scale prospective longitudinal study in Israel\nSmadar Shilo, Noam Bar, Ayya Keshet, et al.\nEuropean Journal of Epidemiology [paper]\nCOVID-19 dynamics after a national immunization program in Israel\nHagai Rossman, Smadar Shilo, Tomer Meir, Malka Gorfine, Uri Shalit, Eran Segal.\nNature Medicine [paper] [press economist] [press financial times]\nAnosmia, ageusia, and other COVID-19-like symptoms in association with a positive SARS-CoV-2 test\nCarole H Sudre, Ayya Keshet, et al.\nLancet Digital Health [paper]\nA prediction model to prioritize individuals for a SARS-CoV-2 test built from national symptom surveys\nSaar Shoer, Tal Karady, Ayya Keshet, Smadar Shilo, Hagai Rossman, et al.\nMed [paper]"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Publications",
     "section": "2020",
-    "text": "2020\nA framework for identifying regional outbreak and spread of COVID-19 from one-minute population-wide surveys\nHagai Rossman, Ayya Keshet, Smadar Shilo, et al.\nNature Medicine [paper]\nLongitudinal symptom dynamics of COVID-19 infection\nBarak Mizrahi, Smadar Shilo, Hagai Rossman, et al.\nNature Communications [paper]\nBuilding an International Consortium for Tracking Coronavirus Health Status\nSegal et al.\nNature Medicine [paper]\nPrediction of gestational diabetes based on nationwide electronic health records\nNitzan Artzi, Smadar Shilo, Eran Hadar, Hagai Rossman, et al.\nNature Medicine [paper]\nAxes of a revolution: challenges and promises of big data in healthcare\nSmadar Shilo, Hagai Rossman, Eran Segal.\nNature Medicine [paper]\nThe effect of a national lockdown in response to COVID-19 pandemic on the prevalence of clinical symptoms in the population\nAyya Keshet, Amir Gavrieli, Hagai Rossman, et al.\nmedRxiv preprint [paper]"
+    "text": "2020\nThe effect of a national lockdown in response to COVID-19 pandemic on the prevalence of clinical symptoms in the population\nAyya Keshet, Amir Gavrieli, Hagai Rossman, et al.\nmedRxiv preprint [paper]\nPrediction of gestational diabetes based on nationwide electronic health records\nNitzan Artzi, Smadar Shilo, Eran Hadar, Hagai Rossman, et al.\nNature Medicine [paper]\nLongitudinal symptom dynamics of COVID-19 infection\nBarak Mizrahi, Smadar Shilo, Hagai Rossman, et al.\nNature Communications [paper]\nBuilding an International Consortium for Tracking Coronavirus Health Status\nSegal et al.\nNature Medicine [paper]\nAxes of a revolution: challenges and promises of big data in healthcare\nSmadar Shilo, Hagai Rossman, Eran Segal.\nNature Medicine [paper]\nA framework for identifying regional outbreak and spread of COVID-19 from one-minute population-wide surveys\nHagai Rossman, Ayya Keshet, Smadar Shilo, et al.\nNature Medicine [paper]"
   },
   {
     "objectID": "index.html",
@@ -60,34 +95,13 @@
     "href": "index.html#research",
     "title": "Hagai Rossman",
     "section": "Research",
-    "text": "Research\nI develop data-driven computational systems that transform rich biomedical data into actionable health insights. My work integrates data-driven computational modeling and AI methods with clinical knowledge to model disease trajectories and support personalized health interventions in real-world settings.\nMy research agenda focuses on three interconnected themes: foundation models that learn generalizable representations from multimodal health data; knowledge-infused approaches that ground predictions in biomedical and clinical understanding; and compound AI systems that combine specialized models, agents, and large language models to support complex clinical reasoning and decision making.\nI completed my PhD at the Segal Lab at the Weizmann Institute of Science, where I played a central role in establishing and scaling the Human Phenotype Project (HPP), a large-scale deep phenotyping cohort. My work spanned both the scientific and infrastructural foundations of the project, including the development of predictive models from nationwide electronic health records and high-dimensional phenotypic data."
+    "text": "Research\nI develop data-driven computational systems that transform rich biomedical data into actionable health insights. My work integrates data-driven computational modeling and AI methods with clinical knowledge to model disease trajectories and support personalized health interventions in real-world settings.\nI am a co-founder of the Human Phenotype Project, a large-scale deep phenotyping cohort integrating multi-omics, imaging, wearables, and lifestyle data.\nMy research agenda focuses on three interconnected themes: foundation models that learn generalizable representations from multimodal health data; knowledge-infused approaches that ground predictions in biomedical and clinical understanding; and compound AI systems that combine specialized models, agents, and large language models to support complex clinical reasoning and decision making.\nI earned my PhD in Computer Science at the Weizmann Institute of Science, where I played a central role in establishing and scaling the Human Phenotype Project (HPP) and developing predictive models from nationwide electronic health records and high-dimensional phenotypic data."
   },
   {
     "objectID": "index.html#featured-publications",
     "href": "index.html#featured-publications",
     "title": "Hagai Rossman",
     "section": "Featured Publications",
-    "text": "Featured Publications\nA foundation model for continuous glucose monitoring data A transformer-based foundation model trained on 10 million glucose measurements that generalizes across populations and predicts diverse health outcomes. Nature, 2025\nDeep phenotyping of health-disease continuum in the Human Phenotype Project Comprehensive deep phenotyping of 36,000 individuals reveals interconnected health dimensions and enables data-driven disease prediction across the health-disease continuum. Nature Medicine, 2025\nAxes of a revolution: challenges and promises of big data in healthcare A perspective on how big data and AI are transforming healthcare through personalized medicine, while addressing key challenges in data integration and clinical translation. Nature Medicine, 2020\nView all publications"
-  },
-  {
-    "objectID": "other.html",
-    "href": "other.html",
-    "title": "Other",
-    "section": "",
-    "text": "The Israel National Institute for Health Policy Research - Modelists Seminar, February 2022\nNATO Operations Research & Analysis Conference - Keynote Speaker, October 2021\nYale Math & Economics Seminar - May 2021\nIsrael National Biotechnology Teachers Seminar - May 2021\nWorld Health Organization European Regional Office - “Gauging the Impact of a Rapid National Vaccination Campaign” webinar, March 2021\nNATO Webinar 2021 - Israel’s Best Practices in Enhancing Resilience: The Case of COVID-19\nLife Science Alliance - AI in Healthcare Symposium, Heilbronn - “Rapid Deployment of a Nationwide Symptoms Survey During the Outbreak and Spread of COVID-19”, October 2020\nNBER - Machine Learning in Health Care, Boston - “Childhood Obesity Prediction and Risk Factor Analysis from Nationwide Health Records”, May 2019"
-  },
-  {
-    "objectID": "other.html#invited-talks",
-    "href": "other.html#invited-talks",
-    "title": "Other",
-    "section": "",
-    "text": "The Israel National Institute for Health Policy Research - Modelists Seminar, February 2022\nNATO Operations Research & Analysis Conference - Keynote Speaker, October 2021\nYale Math & Economics Seminar - May 2021\nIsrael National Biotechnology Teachers Seminar - May 2021\nWorld Health Organization European Regional Office - “Gauging the Impact of a Rapid National Vaccination Campaign” webinar, March 2021\nNATO Webinar 2021 - Israel’s Best Practices in Enhancing Resilience: The Case of COVID-19\nLife Science Alliance - AI in Healthcare Symposium, Heilbronn - “Rapid Deployment of a Nationwide Symptoms Survey During the Outbreak and Spread of COVID-19”, October 2020\nNBER - Machine Learning in Health Care, Boston - “Childhood Obesity Prediction and Risk Factor Analysis from Nationwide Health Records”, May 2019"
-  },
-  {
-    "objectID": "other.html#teaching",
-    "href": "other.html#teaching",
-    "title": "Other",
-    "section": "Teaching",
-    "text": "Teaching\nMassachusetts Institute of Technology, USA Teaching Assistant | 2021 Machine Learning for Healthcare (MITx 6.871Jx) - online edX course by Prof. David Sontag & Prof. Peter Szolovits\nWeizmann Institute of Science, Israel Department of Computer Science and Mathematics Teaching Assistant | 2019 - 2020 Deep Neural Networks: A Hands-on Challenge Course (graduate level)"
+    "text": "Featured Publications\nA foundation model for continuous glucose monitoring data A transformer-based foundation model trained on 10 million glucose measurements that generalizes across populations and predicts diverse health outcomes. Nature, 2026\nDiet-microbiome associations in 10,068 individuals from the Human Phenotype Project to guide personalized nutrition A large-scale HPP analysis linking dietary patterns and gut microbiome composition to support personalized nutrition. Nature Medicine, 2026\nSimulating clinical interventions with a generative multimodal model of human physiology A generative model of human physiology trained on longitudinal multimodal HPP data to simulate clinical interventions and health trajectories. arXiv, 2026\nView all publications"
   }
 ]
