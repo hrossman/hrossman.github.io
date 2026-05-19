@@ -4,6 +4,8 @@ title: "Other"
 
 ## Invited Talks
 
+- **[Machines Can Think Summit](https://machinescanthink.ai/)**, Abu Dhabi - "The Human Phenotype Project: Personalized Medicine Based on Deep Human Phenotyping", January 2026
+
 - **The Israel National Institute for Health Policy Research** - Modelists Seminar, February 2022
 
 - **[NATO Operations Research & Analysis Conference](https://events.sto.nato.int/index.php/upcoming-events/event-list/event/28-conf/350-15th-nato-ora-conference)** - Keynote Speaker, October 2021
@@ -19,6 +21,12 @@ title: "Other"
 - **[Life Science Alliance - AI in Healthcare Symposium](https://med.stanford.edu/lifesciencealliance/symposium.html)**, Heilbronn - "Rapid Deployment of a Nationwide Symptoms Survey During the Outbreak and Spread of COVID-19", October 2020
 
 - **[NBER - Machine Learning in Health Care](https://www.nber.org/conferences/machine-learning-health-care-spring-2019)**, Boston - "Childhood Obesity Prediction and Risk Factor Analysis from Nationwide Health Records", May 2019
+
+---
+
+## Academic Activities
+
+- Helped organize **[HPP Global 2026: From Deep-Phenotype Data to Personalized Medicine](https://natureconferences.streamgo.live/phenotype/agenda)**, February 2026
 
 ---
 
