@@ -8,21 +8,53 @@ Full list at [Google Scholar](https://scholar.google.com/citations?user=kQrQJ1gA
 
 ## 2026
 
+**[DoAtlas-2: A Foundation for Self-Evolving Causal Biomedical Discovery](https://arxiv.org/abs/2609.35107)**\
+Yulong Li, Rong Xia, Yuxuan Zhang, Jianxu Chen, Xiwei Liu, Haochen Xue, Maosheng Li, Yuhang Liu, Yibo Yuan, Yutong Xie, Chong Li, Jionglong Su, Hagai Rossman, Eran Segal, Imran Razzak.\
+*arXiv (preprint)* [[preprint](https://arxiv.org/abs/2609.35107)]
+
+**[PhenoBench: Mapping What a Deeply Phenotyped Human Cohort Can Tell Us](https://arxiv.org/abs/2609.06080)**\
+Gal Sapir, Alon Diament, Adva Wolf, Doron Yaya-Stupp, Dikla Gelbard Solodkin, Dana Azouri, Anat Etzion-Fuchs, Guy Lutsker, Eran Segal, Hagai Rossman.\
+*arXiv (preprint)* [[preprint](https://arxiv.org/abs/2609.06080)]
+
+**[Impact of daily diet on sleep quality](https://www.nature.com/articles/s44360-026-00182-2)**\
+Mariya Shkolnik, Gal Sapir, Smadar Shilo, Yeela Talmor-Barkan, Eran Segal, Hagai Rossman.\
+*Nature Health* [[preprint](https://www.medrxiv.org/content/10.64898/2026.02.17.26346471v1)] [[code](https://github.com/mashaashkolnik/causal_framework)] [[paper](https://www.nature.com/articles/s44360-026-00182-2)]
+
+**[Grounding Health AI: Architecture and Evaluation of a Domain-Expert Metabolic Health Agent](https://www.medrxiv.org/content/10.64898/2026.08.11.26359946v1)**\
+Alon Diament, Gal Sapir, Maria Gorodetski, Adva Wolf, Anna Rice, Dana Azouri, Anat Etzion-Fuchs, Dikla Gelbard Solodkin, Yeela Talmor-Barkan, Guy Lutsker, Eran Segal, Hagai Rossman.\
+*medRxiv (preprint)* [[preprint](https://www.medrxiv.org/content/10.64898/2026.08.11.26359946v1)]
+
+**[A foundation model of wearable pulse oximetry reveals physiological signatures of health and cardiometabolic risk](https://www.medrxiv.org/content/10.64898/2026.07.01.26356992v1)**\
+Sarah Kohn, Guy Lutsker, Alon Diament, Smadar Shilo, Adam Gabet, Gil Sasson, Gili Wolf, Adva Wolf, Anastasia Godneva, Adina Weinberger, Hagai Rossman, Eran Segal.\
+*medRxiv (preprint)* [[preprint](https://www.medrxiv.org/content/10.64898/2026.07.01.26356992v1)]
+
+**[Pre-activity glycemic prediction prioritizes post-meal movement](https://www.medrxiv.org/content/10.64898/2026.06.22.26356272v1)**\
+Smadar Shilo, Gal Sapir, Guy Lutsker, Yeela Talmor-Barkan, Anastasia Godneva, Alon Diament, Marcos Matabuena, Eran Segal, Hagai Rossman.\
+*medRxiv (preprint)* [[preprint](https://www.medrxiv.org/content/10.64898/2026.06.22.26356272v1)]
+
+**[Long-term comparative efficacy and safety of direct oral anticoagulants versus warfarin in patients with atrial fibrillation and chronic kidney disease: A nationwide observational study](https://doi.org/10.1016/j.hrthm.2026.06.020)**\
+Yeela Talmor-Barkan, Ran Kornowski, Guy Witberg, Keren Skalsky, Iris Kalka, Hagai Rossman, Eran Segal, Nancy Yacovzada.\
+*Heart Rhythm* [[paper](https://doi.org/10.1016/j.hrthm.2026.06.020)]
+
+**[RetiMap: Automated Retinal Vascular Measures Link Microvascular Structure to Metabolic Health and Predict Cardiovascular Risk](https://www.jacc.org/doi/10.1016/j.jacbts.2026.101596)**\
+Yeela Talmor-Barkan, Michal Shapira, Smadar Shilo, Maria Gorodetski, Dana Azouri, Yaron Aviv, Yotam Reisner, Anastasia Godneva, Adina Weinberger, Alon Skaat, Anat Loewenstein, Eran Berkowitz, Ran Kornowski, Eran Segal, Hagai Rossman.\
+*JACC: Basic to Translational Science* [[preprint](https://www.medrxiv.org/content/10.1101/2024.04.05.24305164)] [[paper](https://www.jacc.org/doi/10.1016/j.jacbts.2026.101596)]
+
+**[A Deep Learning-Based Predictive Algorithm for Metabolic Syndrome Detection in the U.S. Population](https://www.medrxiv.org/content/10.64898/2026.05.24.26354007v1)**\
+Cristina Correa, Ruben Solozabal, Ziad Akram Ali Hammouri, Fernando Gómez-Peralta, Hagai Rossman, Juan C. Vidal, David C. Klonoff, Eran Segal, Marcos Matabuena.\
+*medRxiv (preprint)* [[preprint](https://www.medrxiv.org/content/10.64898/2026.05.24.26354007v1)]
+
 **[Heterogeneity of Insulin Resistance Surrogates in Thousands of Non-Diabetic Adults: Multi-Modal Data Reveals Discordant Metabolic Phenotypes](https://www.medrxiv.org/content/10.64898/2026.05.02.26352290v1)**\
 Smadar Shilo, Yeela Talmor-Barkan, Maria Gorodetski, Dana Azouri, Anastasia Godneva, Eran Segal, Hagai Rossman.\
-*medRxiv* [[preprint](https://www.medrxiv.org/content/10.64898/2026.05.02.26352290v1)] [[code](https://github.com/hrossman/hpp-insulin-resistance-paper-public)]
+*medRxiv (preprint)* [[preprint](https://www.medrxiv.org/content/10.64898/2026.05.02.26352290v1)] [[code](https://github.com/hrossman/hpp-insulin-resistance-paper-public)]
 
 **[Simulating clinical interventions with a generative multimodal model of human physiology](https://arxiv.org/abs/2604.27899)**\
 Guy Lutsker, Gal Sapir, Jordi Merino, Smadar Shilo, Anastasia Godneva, Eli Meirom, Shie Mannor, Hagai Rossman, Gal Chechik, Eran Segal.\
-*arXiv* [[preprint](https://arxiv.org/abs/2604.27899)]
+*arXiv (preprint)* [[preprint](https://arxiv.org/abs/2604.27899)]
 
 **[Diet-microbiome associations in 10,068 individuals from the Human Phenotype Project to guide personalized nutrition](https://www.nature.com/articles/s41591-026-04312-x)**\
 Tomer Segev, Daniel Barak, Liron Zahavi, Anastasia Godneva, Michal Rein, David Krongauz, Dorit Samocha-Bonet, Hagai Rossman, Adina Weinberger, Eran Segal.\
 *Nature Medicine* [[paper](https://www.nature.com/articles/s41591-026-04312-x)] [[preprint](https://www.medrxiv.org/content/10.1101/2025.10.12.25337559)] [[code](https://github.com/TmrSegev/diet-microbiome)]
-
-**[Day-to-day dietary variation shapes overnight sleep physiology: a target-trial emulation in 4.8 thousand person-nights](https://www.medrxiv.org/content/10.64898/2026.02.17.26346471v1)**\
-Mariya Shkolnik, Gal Sapir, Smadar Shilo, Yeela Talmor-Barkan, Eran Segal, Hagai Rossman.\
-*medRxiv* [[preprint](https://www.medrxiv.org/content/10.64898/2026.02.17.26346471v1)] [[code](https://github.com/mashaashkolnik/causal_framework)]
 
 **[A foundation model for continuous glucose monitoring data](https://www.nature.com/articles/s41586-025-09925-9)**\
 Guy Lutsker, Gal Sapir, Smadar Shilo, Jordi Merino, Anastasia Godneva, Jerry R. Greenfield, Dorit Samocha-Bonet, Raja Dhir, Francisco Gude, Shie Mannor, Eli Meirom, Eric P. Xing, Gal Chechik, Hagai Rossman, Eran Segal.\
@@ -53,10 +85,6 @@ Lee Reicher, Smadar Shilo, Anastasia Godneva, et al.\
 
 
 ## 2024
-
-**[Unveiling associations between retinal microvascular architecture and phenotypes across thousands of healthy subjects](https://www.medrxiv.org/content/10.1101/2024.04.05.24305164)**\
-Michal Shapira, Smadar Shilo, Yeela Talmor-Barkan, et al.\
-*medRxiv preprint* [[paper](https://www.medrxiv.org/content/10.1101/2024.04.05.24305164)]
 
 **[Genome-wide association studies and polygenic risk score phenome-wide association studies across complex phenotypes in the Human Phenotype Project](https://www.cell.com/med/abstract/S2666-6340(23)00400-2)**\
 Zachary Levine, Iris Kalka, Dmitry Kolobkov, Hagai Rossman, et al.\

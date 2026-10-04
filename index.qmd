@@ -51,4 +51,11 @@ A large-scale HPP analysis linking dietary patterns and gut microbiome compositi
 A generative model of human physiology trained on longitudinal multimodal HPP data to simulate clinical interventions and health trajectories.
 *arXiv, 2026*
 
+**[Impact of daily diet on sleep quality](https://www.nature.com/articles/s44360-026-00182-2)**
+An HPP study examining associations between daily dietary intake and same-night sleep physiology.
+*Nature Health, 2026*
+
+**[PhenoBench: Mapping What a Deeply Phenotyped Human Cohort Can Tell Us](https://arxiv.org/abs/2609.06080)**
+*arXiv preprint, 2026*
+
 [View all publications](publications.md)
