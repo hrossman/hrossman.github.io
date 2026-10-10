@@ -4,6 +4,8 @@ title: "Other"
 
 ## Invited Talks
 
+- National Computer Science Conference and Launch of the Israeli Computer Science Association, Computational Healthcare session, Ben-Gurion University of the Negev, Beer-Sheva, Israel, 8 October 2026. Talk: “[The Human Phenotype Project: From Deep Phenotyping to Personalized Health](https://conferences.bgu.ac.il/cs2026/Medicine)”.
+
 - **[Machines Can Think Summit](https://machinescanthink.ai/)**, Abu Dhabi - "The Human Phenotype Project: Personalized Medicine Based on Deep Human Phenotyping", January 2026
 
 - **The Israel National Institute for Health Policy Research** - Modelists Seminar, February 2022
