@@ -57,5 +57,6 @@ An HPP study examining associations between daily dietary intake and same-night 
 
 **[PhenoBench: Mapping What a Deeply Phenotyped Human Cohort Can Tell Us](https://arxiv.org/abs/2609.06080)**
 *arXiv preprint, 2026*
+Accepted oral presentation, [AIDaR Workshop at NeurIPS 2026](https://openreview.net/forum?id=CgGuwCI9vo), Paris, 12 December 2026.
 
 [View all publications](publications.md)

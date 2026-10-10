@@ -24,6 +24,12 @@ title: "Other"
 
 ---
 
+## Conference Presentations
+
+- "[PhenoBench: Mapping What a Deeply Phenotyped Human Cohort Can Tell Us](https://openreview.net/forum?id=CgGuwCI9vo)." Accepted for oral presentation, [AIDaR Workshop at NeurIPS 2026](https://aidar-workshop.github.io/2026/), Paris, France, 12 December 2026.
+
+---
+
 ## Academic Activities
 
 - Helped organize **[HPP Global 2026: From Deep-Phenotype Data to Personalized Medicine](https://natureconferences.streamgo.live/phenotype/agenda)**, February 2026
