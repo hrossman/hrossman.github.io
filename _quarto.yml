@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Hagai Rossman"
+  favicon: images/favicon.svg
   google-analytics: "G-2CBQ88QZ0L"
   navbar:
     background: primary
@@ -12,8 +13,6 @@ website:
         file: index.qmd
       - text: "Publications"
         file: publications.md
-      - text: "Other"
-        file: other.md
 
     tools:
       - icon: twitter
@@ -25,17 +24,23 @@ website:
       - icon: github
         href: https://github.com/hrossman
 
+  page-footer:
+    left: "Hagai Rossman · AI & Personalized Medicine"
+    right:
+      - text: "MBZUAI"
+        href: https://mbzuai.ac.ae/
+
   twitter-card:
      creator: "@H_Rossman"
      site: "@H_Rossman"
-     card-style: summary_large_image
+     card-style: summary
   site-url: "https://hrossman.github.io/"
 
 format:
   html:
     theme:
-      light: flatly
       dark: darkly
+      light: flatly
     css: styles.css
     toc: true
 

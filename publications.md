@@ -4,7 +4,6 @@ title: "Publications"
 
 Full list at [Google Scholar](https://scholar.google.com/citations?user=kQrQJ1gAAAAJ&hl=en)
 
-Authorship: **Hagai Rossman** is shown in bold; † co-first author; ‡ shared senior/co-last author; ✉ corresponding author. Symbols indicate verified roles and are distinct from author order.
 
 ## 2026
 
